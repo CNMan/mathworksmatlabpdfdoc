@@ -248,6 +248,16 @@ http://www.mathworks.com/help/pdf_doc/dsp/dsp_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/dsp/rn.pdf
 
+#### LTE HDL Toolbox
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/ltehdl_gs.pdf
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/ltehdl_ug.pdf
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/ltehdl_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/rn.pdf
+
 #### LTE System Toolbox
 
 http://www.mathworks.com/help/pdf_doc/lte/lte_gs.pdf
@@ -485,6 +495,16 @@ http://www.mathworks.com/help/pdf_doc/fixedpoint/FPTUG.pdf
 http://www.mathworks.com/help/pdf_doc/fixedpoint/fpt_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/fixedpoint/rn.pdf
+
+#### GPU Coder
+
+http://www.mathworks.com/help/pdf_doc/gpucoder/gpucoder_gs.pdf
+
+http://www.mathworks.com/help/pdf_doc/gpucoder/gpucoder_ug.pdf
+
+http://www.mathworks.com/help/pdf_doc/gpucoder/gpucoder_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/gpucoder/rn.pdf
 
 #### HDL Coder
 
@@ -892,6 +912,16 @@ http://www.mathworks.com/help/pdf_doc/certkitiec/certkitiec_ug.pdf
 
 http://www.mathworks.com/help/pdf_doc/certkitiec/rn.pdf
 
+#### LTE HDL Toolbox
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/ltehdl_gs.pdf
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/ltehdl_ug.pdf
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/ltehdl_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/ltehdl/rn.pdf
+
 #### Simulink Coder
 
 http://www.mathworks.com/help/pdf_doc/rtw/rtw_gs.pdf
@@ -978,6 +1008,14 @@ http://www.mathworks.com/help/pdf_doc/codeprover/codeprover_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/codeprover/rn.pdf
 
+#### Simulink Check
+
+https://www.mathworks.com/help/pdf_doc/slcheck/slcheck_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/slcheck/slcheck_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/slcheck/rn.pdf
+
 #### Simulink Code Inspector
 
 http://www.mathworks.com/help/pdf_doc/slci/rn.pdf
@@ -986,6 +1024,14 @@ http://www.mathworks.com/help/pdf_doc/slci/slci_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/slci/slci_ug.pdf
 
+#### Simulink Coverage
+
+https://www.mathworks.com/help/pdf_doc/slcoverage/slcoverage_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/slcoverage/slcoverage_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/slcoverage/rn.pdf
+
 #### Simulink Design Verifier
 
 http://www.mathworks.com/help/pdf_doc/sldv/sldv_ug.pdf
@@ -993,6 +1039,16 @@ http://www.mathworks.com/help/pdf_doc/sldv/sldv_ug.pdf
 http://www.mathworks.com/help/pdf_doc/sldv/sldv_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/sldv/rn.pdf
+
+#### Simulink Requirements
+
+https://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_gs.pdf
+
+https://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/slrequirements/rn.pdf
 
 #### Simulink Test
 
@@ -1085,3 +1141,7 @@ http://www.mathworks.com/help/pdf_doc/polyspace/ada_release_notes.pdf
 * [Powertrain Blockset](http://www.mathworks.com/help/pdf_doc/autoblks/index.html)
 
 * [Simulink Code Inspector](http://www.mathworks.com/help/pdf_doc/slci/index.html)
+
+* [LTE HDL Toolbox](http://www.mathworks.com/help/pdf_doc/ltehdl/index.html)
+
+* [GPU Coder](http://www.mathworks.com/help/pdf_doc/gpucoder/index.html)
