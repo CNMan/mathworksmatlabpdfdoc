@@ -8,6 +8,8 @@ http://www.mathworks.com/help/pdf_doc/install/install_guide.pdf
 
 http://www.mathworks.com/help/pdf_doc/matlab/licensing.pdf
 
+http://www.mathworks.com/help/pdf_doc/matlab/offering.pdf
+
 ## MATLAB® Family
 
 ### MATLAB
@@ -76,6 +78,16 @@ http://www.mathworks.com/help/pdf_doc/curvefit/curvefit.pdf
 
 http://www.mathworks.com/help/pdf_doc/curvefit/rn.pdf
 
+#### Deep Learning Toolbox
+
+http://www.mathworks.com/help/pdf_doc/deeplearning/nnet_gs.pdf
+
+http://www.mathworks.com/help/pdf_doc/deeplearning/nnet_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/deeplearning/nnet_ug.pdf
+
+http://www.mathworks.com/help/pdf_doc/deeplearning/rn.pdf
+
 #### Global Optimization Toolbox
 
 http://www.mathworks.com/help/pdf_doc/gads/gads_tb.pdf
@@ -96,13 +108,13 @@ http://www.mathworks.com/help/pdf_doc/mbc/rn.pdf
 
 #### Neural Network Toolbox
 
-http://www.mathworks.com/help/pdf_doc/nnet/nnet_gs.pdf
+http://www.mathworks.com/help/releases/R2018a/pdf_doc/nnet/nnet_gs.pdf
 
-http://www.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf
+http://www.mathworks.com/help/releases/R2018a/pdf_doc/nnet/nnet_ug.pdf
 
-http://www.mathworks.com/help/pdf_doc/nnet/nnet_ref.pdf
+http://www.mathworks.com/help/releases/R2018a/pdf_doc/nnet/nnet_ref.pdf
 
-http://www.mathworks.com/help/pdf_doc/nnet/rn.pdf
+http://www.mathworks.com/help/releases/R2018a/pdf_doc/nnet/rn.pdf
 
 #### Optimization Toolbox
 
@@ -131,6 +143,14 @@ http://www.mathworks.com/help/pdf_doc/symbolic/mupad_ug.pdf
 http://www.mathworks.com/help/pdf_doc/symbolic/mupad_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/symbolic/rn.pdf
+
+#### Text Analytics Toolbox
+
+http://www.mathworks.com/help/pdf_doc/textanalytics/rn.pdf
+
+http://www.mathworks.com/help/pdf_doc/textanalytics/textanalytics_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/textanalytics/textanalytics_ug.pdf
 
 ### Control Systems
 
@@ -176,6 +196,16 @@ http://www.mathworks.com/help/pdf_doc/mpc/mpc_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/mpc/rn.pdf
 
+#### Predictive Maintenance Toolbox
+
+http://www.mathworks.com/help/pdf_doc/predmaint/predmaint_gs.pdf
+
+http://www.mathworks.com/help/pdf_doc/predmaint/predmaint_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/predmaint/predmaint_ug.pdf
+
+http://www.mathworks.com/help/pdf_doc/predmaint/rn.pdf
+
 #### Robotics System Toolbox
 
 http://www.mathworks.com/help/pdf_doc/robotics/robotics_gs.pdf
@@ -206,7 +236,17 @@ http://www.mathworks.com/help/pdf_doc/ident/reference.pdf
 
 http://www.mathworks.com/help/pdf_doc/ident/rn.pdf
 
-### Signal Processing and Communications
+### Signal Processing and Wireless Communications
+
+#### 5G
+
+http://www.mathworks.com/help/pdf_doc/5g/5g_gs.pdf
+
+http://www.mathworks.com/help/pdf_doc/5g/5g_ug.pdf
+
+http://www.mathworks.com/help/pdf_doc/5g/5g_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/5g/rn.pdf
 
 #### Antenna Toolbox
 
@@ -283,6 +323,16 @@ http://www.mathworks.com/help/pdf_doc/phased/rn.pdf
 http://www.mathworks.com/help/pdf_doc/rf/rf.pdf
 
 http://www.mathworks.com/help/pdf_doc/rf/rn.pdf
+
+#### Sensor Fusion and Tracking Toolbox
+
+http://www.mathworks.com/help/pdf_doc/fusion/fusion_gs.pdf
+
+http://www.mathworks.com/help/pdf_doc/fusion/fusion_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/fusion/fusion_ug.pdf
+
+http://www.mathworks.com/help/pdf_doc/fusion/rn.pdf
 
 #### Signal Processing Toolbox
 
@@ -558,6 +608,8 @@ http://www.mathworks.com/help/pdf_doc/compiler/compiler_hadoop.pdf
 
 http://www.mathworks.com/help/pdf_doc/compiler/compiler_spark.pdf
 
+http://www.mathworks.com/help/pdf_doc/compiler/compiler_webapps.pdf
+
 http://www.mathworks.com/help/pdf_doc/compiler/rn.pdf
 
 #### MATLAB Compiler SDK
@@ -587,6 +639,8 @@ http://www.mathworks.com/help/pdf_doc/compiler_sdk/compiler_sdk_mps_cxx.pdf
 http://www.mathworks.com/help/pdf_doc/compiler_sdk/compiler_sdk_mps_python.pdf
 
 http://www.mathworks.com/help/pdf_doc/compiler_sdk/compiler_sdk_mps_excel.pdf
+
+http://www.mathworks.com/help/pdf_doc/compiler_sdk/compiler_sdk_mps_restfuljson.pdf
 
 http://www.mathworks.com/help/pdf_doc/compiler_sdk/compiler_sdk_com.pdf
 
@@ -802,6 +856,14 @@ http://www.mathworks.com/help/pdf_doc/sldo/sldo_ref.pdf
 
 http://www.mathworks.com/help/pdf_doc/sldo/rn.pdf
 
+#### Vehicle Dynamics Blockset
+
+http://www.mathworks.com/help/pdf_doc/vdynblks/rn.pdf
+
+http://www.mathworks.com/help/pdf_doc/vdynblks/vdynblks_ref.pdf
+
+http://www.mathworks.com/help/pdf_doc/vdynblks/vdynblks_ug.pdf
+
 ### Signal Processing and Communications
 
 #### Audio System Toolbox
@@ -870,7 +932,7 @@ http://www.mathworks.com/help/pdf_doc/simrf/rn.pdf
 
 http://www.mathworks.com/help/pdf_doc/qualkitdo/qualkitdo_ug.pdf
 
-http://www.mathworks.com/help/pdf_doc/qualkitdo/qualkitdo_workflow.pdf
+http://www.mathworks.com/help/releases/R2018a/pdf_doc/qualkitdo/qualkitdo_workflow.pdf
 
 http://www.mathworks.com/help/pdf_doc/qualkitdo/rn.pdf
 
@@ -968,7 +1030,7 @@ http://www.mathworks.com/help/pdf_doc/xpc/xpc_target_ug.pdf
 
 http://www.mathworks.com/help/pdf_doc/xpc/xpc_target_api_ugref.pdf
 
-http://www.mathworks.com/help/pdf_doc/xpc/xpc_target_driver_ug.pdf
+http://www.mathworks.com/help/releases/R2017b/pdf_doc/xpc/xpc_target_driver_ug.pdf
 
 http://www.mathworks.com/help/pdf_doc/xpc/xpc_target_io_ref.pdf
 
@@ -1010,11 +1072,11 @@ http://www.mathworks.com/help/pdf_doc/codeprover/rn.pdf
 
 #### Simulink Check
 
-https://www.mathworks.com/help/pdf_doc/slcheck/slcheck_ug.pdf
+http://www.mathworks.com/help/pdf_doc/slcheck/slcheck_ug.pdf
 
-https://www.mathworks.com/help/pdf_doc/slcheck/slcheck_ref.pdf
+http://www.mathworks.com/help/pdf_doc/slcheck/slcheck_ref.pdf
 
-https://www.mathworks.com/help/pdf_doc/slcheck/rn.pdf
+http://www.mathworks.com/help/pdf_doc/slcheck/rn.pdf
 
 #### Simulink Code Inspector
 
@@ -1026,11 +1088,11 @@ http://www.mathworks.com/help/pdf_doc/slci/slci_ug.pdf
 
 #### Simulink Coverage
 
-https://www.mathworks.com/help/pdf_doc/slcoverage/slcoverage_ug.pdf
+http://www.mathworks.com/help/pdf_doc/slcoverage/slcoverage_ug.pdf
 
-https://www.mathworks.com/help/pdf_doc/slcoverage/slcoverage_ref.pdf
+http://www.mathworks.com/help/pdf_doc/slcoverage/slcoverage_ref.pdf
 
-https://www.mathworks.com/help/pdf_doc/slcoverage/rn.pdf
+http://www.mathworks.com/help/pdf_doc/slcoverage/rn.pdf
 
 #### Simulink Design Verifier
 
@@ -1042,13 +1104,13 @@ http://www.mathworks.com/help/pdf_doc/sldv/rn.pdf
 
 #### Simulink Requirements
 
-https://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_gs.pdf
+http://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_gs.pdf
 
-https://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_ug.pdf
+http://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_ug.pdf
 
-https://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_ref.pdf
+http://www.mathworks.com/help/pdf_doc/slrequirements/slrequirements_ref.pdf
 
-https://www.mathworks.com/help/pdf_doc/slrequirements/rn.pdf
+http://www.mathworks.com/help/pdf_doc/slrequirements/rn.pdf
 
 #### Simulink Test
 
@@ -1062,11 +1124,11 @@ http://www.mathworks.com/help/pdf_doc/sltest/rn.pdf
 
 #### Simulink Verification and Validation
 
-http://www.mathworks.com/help/pdf_doc/slvnv/slvnv_ug.pdf
+http://www.mathworks.com/help/releases/R2017a/pdf_doc/slvnv/slvnv_ug.pdf
 
-http://www.mathworks.com/help/pdf_doc/slvnv/slvnv_ref.pdf
+http://www.mathworks.com/help/releases/R2017a/pdf_doc/slvnv/slvnv_ref.pdf
 
-http://www.mathworks.com/help/pdf_doc/slvnv/rn.pdf
+http://www.mathworks.com/help/releases/R2017a/pdf_doc/slvnv/rn.pdf
 
 ### Simulation Graphics and Reporting
 
@@ -1088,7 +1150,7 @@ http://www.mathworks.com/help/pdf_doc/rptgenext/rn.pdf
 
 http://www.mathworks.com/help/pdf_doc/qualkitdo/qualkitdo_ug.pdf
 
-http://www.mathworks.com/help/pdf_doc/qualkitdo/qualkitdo_workflow.pdf
+http://www.mathworks.com/help/releases/R2018a/pdf_doc/qualkitdo/qualkitdo_workflow.pdf
 
 http://www.mathworks.com/help/pdf_doc/qualkitdo/rn.pdf
 
@@ -1132,16 +1194,6 @@ http://www.mathworks.com/help/pdf_doc/polyspace/ada_release_notes.pdf
 
 #### The PDF Documentation for the following components maybe not completely available due to lack of license, please complement if you have license.
 
-* [Automated Driving System Toolbox](http://www.mathworks.com/help/pdf_doc/driving/index.html)
-
 * [DO Qualification Kit (for DO-178)](http://www.mathworks.com/help/pdf_doc/qualkitdo/index.html)
 
 * [IEC Certification Kit (for ISO 26262 and IEC 61508)](http://www.mathworks.com/help/pdf_doc/certkitiec/index.html)
-
-* [Powertrain Blockset](http://www.mathworks.com/help/pdf_doc/autoblks/index.html)
-
-* [Simulink Code Inspector](http://www.mathworks.com/help/pdf_doc/slci/index.html)
-
-* [LTE HDL Toolbox](http://www.mathworks.com/help/pdf_doc/ltehdl/index.html)
-
-* [GPU Coder](http://www.mathworks.com/help/pdf_doc/gpucoder/index.html)
