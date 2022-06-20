@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentation-set>
+  <format>doccenter</format>
+  <product-list>
+    <product>
+      <display-name>MATLAB</display-name>
+      <help-location>matlab</help-location>
+      <short-name>matlab</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink</display-name>
+      <help-location>simulink</help-location>
+      <short-name>simulink</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Aerospace Blockset</display-name>
+      <help-location>aeroblks</help-location>
+      <short-name>aeroblks</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Aerospace Toolbox</display-name>
+      <help-location>aerotbx</help-location>
+      <short-name>aerotbx</short-name>
+      <alt-short-name>aero</alt-short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Antenna Toolbox</display-name>
+      <help-location>antenna</help-location>
+      <short-name>antenna</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Audio System Toolbox</display-name>
+      <help-location>audio</help-location>
+      <short-name>audio</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Bioinformatics Toolbox</display-name>
+      <help-location>bioinfo</help-location>
+      <short-name>bioinfo</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-biology</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Communications System Toolbox</display-name>
+      <help-location>comm</help-location>
+      <short-name>comm</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Computer Vision System Toolbox</display-name>
+      <help-location>vision</help-location>
+      <short-name>vision</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Control System Toolbox</display-name>
+      <help-location>control</help-location>
+      <short-name>control</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Curve Fitting Toolbox</display-name>
+      <help-location>curvefit</help-location>
+      <short-name>curvefit</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Data Acquisition Toolbox</display-name>
+      <help-location>daq</help-location>
+      <short-name>daq</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>test-measurement</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Database Toolbox</display-name>
+      <help-location>database</help-location>
+      <short-name>database</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+        <product-family>
+          <family>matlab</family>
+          <group>database-access-and-reporting</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Datafeed Toolbox</display-name>
+      <help-location>datafeed</help-location>
+      <short-name>datafeed</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>DO Qualification Kit (for DO-178)</display-name>
+      <help-location>qualkitdo</help-location>
+      <short-name>qualkitdo</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>DSP System Toolbox</display-name>
+      <help-location>dsp</help-location>
+      <short-name>dsp</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Econometrics Toolbox</display-name>
+      <help-location>econ</help-location>
+      <short-name>econ</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Embedded Coder</display-name>
+      <help-location>ecoder</help-location>
+      <short-name>ecoder</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Filter Design HDL Coder</display-name>
+      <help-location>hdlfilter</help-location>
+      <short-name>hdlfilter</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Financial Instruments Toolbox</display-name>
+      <help-location>fininst</help-location>
+      <short-name>fininst</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Financial Toolbox</display-name>
+      <help-location>finance</help-location>
+      <short-name>finance</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Fixed-Point Designer</display-name>
+      <help-location>fixedpoint</help-location>
+      <short-name>fixedpoint</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Fuzzy Logic Toolbox</display-name>
+      <help-location>fuzzy</help-location>
+      <short-name>fuzzy</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Global Optimization Toolbox</display-name>
+      <help-location>gads</help-location>
+      <short-name>gads</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>HDL Coder</display-name>
+      <help-location>hdlcoder</help-location>
+      <short-name>hdlcoder</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>HDL Verifier</display-name>
+      <help-location>hdlverifier</help-location>
+      <short-name>hdlverifier</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>IEC Certification Kit (for ISO 26262 and IEC 61508)</display-name>
+      <help-location>certkitiec</help-location>
+      <short-name>certkitiec</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Image Acquisition Toolbox</display-name>
+      <help-location>imaq</help-location>
+      <short-name>imaq</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
+        </product-family>
+        <product-family>
+          <family>matlab</family>
+          <group>test-measurement</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Image Processing Toolbox</display-name>
+      <help-location>images</help-location>
+      <short-name>images</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Installation, Licensing, and Activation</display-name>
+      <help-location>install</help-location>
+      <short-name>install</short-name>
+    </product>
+    <product>
+      <display-name>Instrument Control Toolbox</display-name>
+      <help-location>instrument</help-location>
+      <short-name>instrument</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>test-measurement</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>LTE System Toolbox</display-name>
+      <help-location>lte</help-location>
+      <short-name>lte</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Mapping Toolbox</display-name>
+      <help-location>map</help-location>
+      <short-name>map</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Coder</display-name>
+      <help-location>coder</help-location>
+      <short-name>coder</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Compiler</display-name>
+      <help-location>compiler</help-location>
+      <short-name>compiler</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>desktop-web-deployment</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Compiler SDK</display-name>
+      <help-location>compiler_sdk</help-location>
+      <short-name>compiler_sdk</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>desktop-web-deployment</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Distributed Computing Server</display-name>
+      <help-location>mdce</help-location>
+      <short-name>mdce</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>parallel-computing</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Production Server</display-name>
+      <help-location>mps</help-location>
+      <short-name>mps</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>desktop-web-deployment</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Report Generator</display-name>
+      <help-location>rptgen</help-location>
+      <short-name>rptgen</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>database-access-and-reporting</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Model Predictive Control Toolbox</display-name>
+      <help-location>mpc</help-location>
+      <short-name>mpc</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Model-Based Calibration Toolbox</display-name>
+      <help-location>mbc</help-location>
+      <short-name>mbc</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Neural Network Toolbox</display-name>
+      <help-location>nnet</help-location>
+      <short-name>nnet</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>OPC Toolbox</display-name>
+      <help-location>opc</help-location>
+      <short-name>opc</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>test-measurement</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Optimization Toolbox</display-name>
+      <help-location>optim</help-location>
+      <short-name>optim</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Parallel Computing Toolbox</display-name>
+      <help-location>distcomp</help-location>
+      <short-name>distcomp</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>parallel-computing</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Partial Differential Equation Toolbox</display-name>
+      <help-location>pde</help-location>
+      <short-name>pde</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Phased Array System Toolbox</display-name>
+      <help-location>phased</help-location>
+      <short-name>phased</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Polyspace Bug Finder</display-name>
+      <help-location>bugfinder</help-location>
+      <short-name>bugfinder</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Polyspace Code Prover</display-name>
+      <help-location>codeprover</help-location>
+      <short-name>codeprover</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Polyspace Products for Ada</display-name>
+      <help-location>polyspace_ada</help-location>
+      <short-name>polyspace_ada</short-name>
+      <product-family-list>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Powertrain Blockset</display-name>
+      <help-location>autoblks</help-location>
+      <short-name>autoblks</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>RF Toolbox</display-name>
+      <help-location>rf</help-location>
+      <short-name>rf</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Risk Management Toolbox</display-name>
+      <help-location>risk</help-location>
+      <short-name>risk</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Robotics System Toolbox</display-name>
+      <help-location>robotics</help-location>
+      <short-name>robotics</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Robust Control Toolbox</display-name>
+      <help-location>robust</help-location>
+      <short-name>robust</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Signal Processing Toolbox</display-name>
+      <help-location>signal</help-location>
+      <short-name>signal</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>SimBiology</display-name>
+      <help-location>simbio</help-location>
+      <short-name>simbio</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-biology</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>SimEvents</display-name>
+      <help-location>simevents</help-location>
+      <short-name>simevents</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>event-based-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>SimRF</display-name>
+      <help-location>simrf</help-location>
+      <short-name>simrf</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape</display-name>
+      <help-location>physmod/simscape</help-location>
+      <short-name>simscape</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape Driveline</display-name>
+      <help-location>physmod/sdl</help-location>
+      <short-name>sdl</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape Electronics</display-name>
+      <help-location>physmod/elec</help-location>
+      <short-name>elec</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape Fluids</display-name>
+      <help-location>physmod/hydro</help-location>
+      <short-name>hydro</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape Multibody</display-name>
+      <help-location>physmod/sm</help-location>
+      <short-name>sm</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape Multibody Link</display-name>
+      <help-location>physmod/smlink</help-location>
+      <short-name>smlink</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape Power Systems</display-name>
+      <help-location>physmod/sps</help-location>
+      <short-name>sps</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink 3D Animation</display-name>
+      <help-location>sl3d</help-location>
+      <short-name>sl3d</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>simulation-graphics-and-reporting</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Code Inspector</display-name>
+      <help-location>slci</help-location>
+      <short-name>slci</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Coder</display-name>
+      <help-location>rtw</help-location>
+      <short-name>rtw</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Control Design</display-name>
+      <help-location>slcontrol</help-location>
+      <short-name>slcontrol</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Design Optimization</display-name>
+      <help-location>sldo</help-location>
+      <short-name>sldo</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Design Verifier</display-name>
+      <help-location>sldv</help-location>
+      <short-name>sldv</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Desktop Real-Time</display-name>
+      <help-location>sldrt</help-location>
+      <short-name>sldrt</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>rapid-prototyping</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink PLC Coder</display-name>
+      <help-location>plccoder</help-location>
+      <short-name>plccoder</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Real-Time</display-name>
+      <help-location>xpc</help-location>
+      <short-name>xpc</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>rapid-prototyping</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Report Generator</display-name>
+      <help-location>rptgenext</help-location>
+      <short-name>rptgenext</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>simulation-graphics-and-reporting</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Test</display-name>
+      <help-location>sltest</help-location>
+      <short-name>sltest</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink Verification and Validation</display-name>
+      <help-location>slvnv</help-location>
+      <short-name>slvnv</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Spreadsheet Link</display-name>
+      <help-location>exlink</help-location>
+      <short-name>exlink</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+        <product-family>
+          <family>matlab</family>
+          <group>desktop-web-deployment</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Stateflow</display-name>
+      <help-location>stateflow</help-location>
+      <short-name>stateflow</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>event-based-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Statistics and Machine Learning Toolbox</display-name>
+      <help-location>stats</help-location>
+      <short-name>stats</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Symbolic Math Toolbox</display-name>
+      <help-location>symbolic</help-location>
+      <short-name>symbolic</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>System Identification Toolbox</display-name>
+      <help-location>ident</help-location>
+      <short-name>ident</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>control-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Trading Toolbox</display-name>
+      <help-location>trading</help-location>
+      <short-name>trading</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Vehicle Network Toolbox</display-name>
+      <help-location>vnt</help-location>
+      <short-name>vnt</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>test-measurement</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Vision HDL Toolbox</display-name>
+      <help-location>visionhdl</help-location>
+      <short-name>visionhdl</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
+        </product-family>
+        <product-family>
+          <family>matlab</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Wavelet Toolbox</display-name>
+      <help-location>wavelet</help-location>
+      <short-name>wavelet</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>WLAN System Toolbox</display-name>
+      <help-location>wlan</help-location>
+      <short-name>wlan</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>dsp-and-communications-systems</group>
+        </product-family>
+      </product-family-list>
+    </product>
+  </product-list>
+  <addon-list>
+    <addon>
+      <display-name>Communications System Toolbox Support Package for RTL-SDR Radio</display-name>
+      <help-location>supportpkg/rtlsdrradio</help-location>
+      <short-name>rtlsdrradio</short-name>
+      <base-short-name>comm</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Communications System Toolbox Support Package for USRP Radio</display-name>
+      <help-location>supportpkg/usrpradio</help-location>
+      <short-name>usrpradio</short-name>
+      <base-short-name>comm</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Communications System Toolbox Support Package for Xilinx FPGA-Based Radio</display-name>
+      <help-location>supportpkg/xilinxfpgabasedradio</help-location>
+      <short-name>xilinxfpgabasedradio</short-name>
+      <base-short-name>comm</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Communications System Toolbox Support Package for Xilinx Zynq-Based Radio</display-name>
+      <help-location>supportpkg/xilinxzynqbasedradio</help-location>
+      <short-name>xilinxzynqbasedradio</short-name>
+      <base-short-name>comm</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Computer Vision System Toolbox Support Package for Xilinx Zynq-Based Hardware</display-name>
+      <help-location>supportpkg/xilinxzynqbasedvision</help-location>
+      <short-name>xilinxzynqbasedvision</short-name>
+      <base-short-name>vision</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Data Acquisition Toolbox Support Package for Analog Devices ADALM1000 Hardware</display-name>
+      <help-location>supportpkg/analogdevicesadalm1000</help-location>
+      <short-name>analogdevicesadalm1000</short-name>
+      <base-short-name>daq</base-short-name>
+    </addon>
+    <addon>
+      <display-name>DSP System Toolbox Support Package for ARM Cortex-A Processors</display-name>
+      <help-location>supportpkg/armcortexadst</help-location>
+      <short-name>armcortexadst</short-name>
+      <base-short-name>dsp</base-short-name>
+    </addon>
+    <addon>
+      <display-name>DSP System Toolbox Support Package for ARM Cortex-M Processors</display-name>
+      <help-location>supportpkg/armcortexmdst</help-location>
+      <short-name>armcortexmdst</short-name>
+      <base-short-name>dsp</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for Altera SoC Platform</display-name>
+      <help-location>supportpkg/alterasocembeddedcoder</help-location>
+      <short-name>alterasocembeddedcoder</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for ARM Cortex-A Processors</display-name>
+      <help-location>supportpkg/armcortexa</help-location>
+      <short-name>armcortexa</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for ARM Cortex-M Processors</display-name>
+      <help-location>supportpkg/armcortexm</help-location>
+      <short-name>armcortexm</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for ARM Cortex-R Processors</display-name>
+      <help-location>supportpkg/armcortexr</help-location>
+      <short-name>armcortexr</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for BeagleBone Black Hardware</display-name>
+      <help-location>supportpkg/beaglebone</help-location>
+      <short-name>beaglebone</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for STMicroelectronics Discovery Boards</display-name>
+      <help-location>supportpkg/stmicroelectronicsstm32f4discovery</help-location>
+      <short-name>stmicroelectronicsstm32f4discovery</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for Texas Instruments C2000 F28M3x Concerto Processors</display-name>
+      <help-location>supportpkg/texasinstrumentsc2000concerto</help-location>
+      <short-name>texasinstrumentsc2000concerto</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for Texas Instruments C2000 Processors</display-name>
+      <help-location>supportpkg/texasinstrumentsc2000</help-location>
+      <short-name>texasinstrumentsc2000</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for Wind River VxWorks RTOS</display-name>
+      <help-location>supportpkg/windrivervxworks</help-location>
+      <short-name>windrivervxworks</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Embedded Coder Support Package for Xilinx Zynq-7000 Platform</display-name>
+      <help-location>supportpkg/xilinxzynq7000ec</help-location>
+      <short-name>xilinxzynq7000ec</short-name>
+      <base-short-name>ecoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>HDL Coder Support Package for Altera FPGA Boards</display-name>
+      <help-location>supportpkg/alterafpgaturnkeyboards</help-location>
+      <short-name>alterafpgaturnkeyboards</short-name>
+      <base-short-name>hdlcoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>HDL Coder Support Package for Altera SoC Platform</display-name>
+      <help-location>supportpkg/alterasochdlcoder</help-location>
+      <short-name>alterasochdlcoder</short-name>
+      <base-short-name>hdlcoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>HDL Coder Support Package for Xilinx FPGA Boards</display-name>
+      <help-location>supportpkg/xilinxfpgaturnkeyboards</help-location>
+      <short-name>xilinxfpgaturnkeyboards</short-name>
+      <base-short-name>hdlcoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>HDL Coder Support Package for Xilinx Zynq-7000 Platform</display-name>
+      <help-location>supportpkg/xilinxzynq7000</help-location>
+      <short-name>xilinxzynq7000</short-name>
+      <base-short-name>hdlcoder</base-short-name>
+    </addon>
+    <addon>
+      <display-name>HDL Verifier Support Package for Altera FPGA Boards</display-name>
+      <help-location>supportpkg/alterafpgaboards</help-location>
+      <short-name>alterafpgaboards</short-name>
+      <base-short-name>hdlverifier</base-short-name>
+    </addon>
+    <addon>
+      <display-name>HDL Verifier Support Package for Xilinx FPGA Boards</display-name>
+      <help-location>supportpkg/xilinxfpgaboards</help-location>
+      <short-name>xilinxfpgaboards</short-name>
+      <base-short-name>hdlverifier</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Image Acquisition Toolbox Support Package for GigE Vision Hardware</display-name>
+      <help-location>supportpkg/gigevisionhardware</help-location>
+      <short-name>gigevisionhardware</short-name>
+      <base-short-name>imaq</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Image Acquisition Toolbox Support Package for Kinect For Windows Sensor</display-name>
+      <help-location>supportpkg/kinectforwindowsruntime</help-location>
+      <short-name>kinectforwindowsruntime</short-name>
+      <base-short-name>imaq</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Instrument Control Toolbox Support Package for National Instruments NI-845x I2C/SPI Interface</display-name>
+      <help-location>supportpkg/ni845xi2cdriver</help-location>
+      <short-name>ni845xi2cdriver</short-name>
+      <base-short-name>instrument</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Instrument Control Toolbox Support Package for National Instruments NI-DCPower Power Supplies</display-name>
+      <help-location>supportpkg/nidcpower</help-location>
+      <short-name>nidcpower</short-name>
+      <base-short-name>instrument</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Instrument Control Toolbox Support Package for National Instruments NI-DMM Digital Multimeters</display-name>
+      <help-location>supportpkg/nidmm</help-location>
+      <short-name>nidmm</short-name>
+      <base-short-name>instrument</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Instrument Control Toolbox Support Package for National Instruments VISA and ICP Interfaces</display-name>
+      <help-location>supportpkg/nivisaandicp</help-location>
+      <short-name>nivisaandicp</short-name>
+      <base-short-name>instrument</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Instrument Control Toolbox Support Package for Ocean Optics Spectrometers</display-name>
+      <help-location>supportpkg/oceanopticsspectrometers</help-location>
+      <short-name>oceanopticsspectrometers</short-name>
+      <base-short-name>instrument</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for Android Sensors</display-name>
+      <help-location>supportpkg/mobilesensor</help-location>
+      <short-name>mobilesensor</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for Apple iOS Sensors</display-name>
+      <help-location>supportpkg/iossensor</help-location>
+      <short-name>iossensor</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for Arduino Hardware</display-name>
+      <help-location>supportpkg/arduinoio</help-location>
+      <short-name>arduinoio</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for BeagleBone Black Hardware</display-name>
+      <help-location>supportpkg/beagleboneio</help-location>
+      <short-name>beagleboneio</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for IP Cameras</display-name>
+      <help-location>supportpkg/ipcamera</help-location>
+      <short-name>ipcamera</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for LEGO MINDSTORMS EV3 Hardware</display-name>
+      <help-location>supportpkg/legomindstormsev3io</help-location>
+      <short-name>legomindstormsev3io</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for Raspberry Pi Hardware</display-name>
+      <help-location>supportpkg/raspberrypiio</help-location>
+      <short-name>raspberrypiio</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>MATLAB Support Package for USB Webcams</display-name>
+      <help-location>supportpkg/usbwebcams</help-location>
+      <short-name>usbwebcams</short-name>
+      <base-short-name>matlab</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Robotics System Toolbox Support Package for TurtleBot-Based Robots</display-name>
+      <help-location>supportpkg/turtlebotrobot</help-location>
+      <short-name>turtlebotrobot</short-name>
+      <base-short-name>robotics</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Coder Support Package for ARM Cortex-based VEX Microcontroller</display-name>
+      <help-location>supportpkg/armcortexbasedvexmicrocontroller</help-location>
+      <short-name>armcortexbasedvexmicrocontroller</short-name>
+      <base-short-name>rtw</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Coder Support Package for NXP FRDM-K64F Board</display-name>
+      <help-location>supportpkg/freescalefrdmk64fboard</help-location>
+      <short-name>freescalefrdmk64fboard</short-name>
+      <base-short-name>rtw</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Coder Support Package for NXP FRDM-KL25Z Board</display-name>
+      <help-location>supportpkg/freedomboard</help-location>
+      <short-name>freedomboard</short-name>
+      <base-short-name>rtw</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Coder Support Package for STMicroelectronics Nucleo Boards</display-name>
+      <help-location>supportpkg/nucleo</help-location>
+      <short-name>nucleo</short-name>
+      <base-short-name>rtw</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Support Package for Android Devices</display-name>
+      <help-location>supportpkg/android</help-location>
+      <short-name>android</short-name>
+      <base-short-name>simulink</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Support Package for Apple iOS Devices</display-name>
+      <help-location>supportpkg/appleios</help-location>
+      <short-name>appleios</short-name>
+      <base-short-name>simulink</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Support Package for Arduino Hardware</display-name>
+      <help-location>supportpkg/arduino</help-location>
+      <short-name>arduino</short-name>
+      <base-short-name>simulink</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Support Package for LEGO MINDSTORMS EV3 Hardware</display-name>
+      <help-location>supportpkg/legomindstormsev3</help-location>
+      <short-name>legomindstormsev3</short-name>
+      <base-short-name>simulink</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Support Package for LEGO MINDSTORMS NXT Hardware</display-name>
+      <help-location>supportpkg/legomindstormsnxt</help-location>
+      <short-name>legomindstormsnxt</short-name>
+      <base-short-name>simulink</base-short-name>
+    </addon>
+    <addon>
+      <display-name>Simulink Support Package for Raspberry Pi Hardware</display-name>
+      <help-location>supportpkg/raspberrypi</help-location>
+      <short-name>raspberrypi</short-name>
+      <base-short-name>simulink</base-short-name>
+    </addon>
+  </addon-list>
+</documentation-set>
+

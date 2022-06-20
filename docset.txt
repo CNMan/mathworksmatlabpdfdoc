@@ -1,0 +1,14 @@
+https://www.mathworks.com/help/releases/R2016a/docset.xml
+https://www.mathworks.com/help/releases/R2016b/docset.xml
+https://www.mathworks.com/help/releases/R2017a/docset.xml
+https://www.mathworks.com/help/releases/R2017b/docset.xml
+https://www.mathworks.com/help/releases/R2018a/docset.xml
+https://www.mathworks.com/help/releases/R2018b/docset.xml
+https://www.mathworks.com/help/releases/R2019a/docset.xml
+https://www.mathworks.com/help/releases/R2019b/docset.xml
+https://www.mathworks.com/help/releases/R2020a/docset.xml
+https://www.mathworks.com/help/releases/R2020b/docset.xml
+https://www.mathworks.com/help/releases/R2021a/docset.xml
+https://www.mathworks.com/help/releases/R2021b/docset.xml
+https://www.mathworks.com/help/releases/R2022a/docset.xml
+https://www.mathworks.com/help/releases/R2022b/docset.xml
