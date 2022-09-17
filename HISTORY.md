@@ -1,3 +1,9 @@
+## R2022b
+```
+Medical_Imaging_Toolbox
+Simscape_Battery
+```
+
 ## R2022a
 ```
 Bluetooth_Toolbox

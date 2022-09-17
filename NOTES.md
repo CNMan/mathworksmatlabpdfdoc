@@ -24,6 +24,7 @@
   -  https://www.mathworks.com/support/requirements/supported-compilers.html
 
 ### Release Notes
+  -  https://www.mathworks.com/help/releases/R2022b/relnotes/
   -  https://www.mathworks.com/help/releases/R2022a/relnotes/
   -  https://www.mathworks.com/help/releases/R2021b/relnotes/
   -  https://www.mathworks.com/help/releases/R2021a/relnotes/
@@ -39,6 +40,7 @@
   -  https://www.mathworks.com/help/releases/R2016a/relnotes/
 
 ### Updates Release Notes
+  -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2022b/r2022b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2022a/r2022a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2021b/r2021b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2021a/r2021a-updates-release-notes.pdf
@@ -56,6 +58,7 @@
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2015asp1/r2015asp1-updates-release-notes.pdf
 
 ### Overviews for previous releases
+  -  https://www.mathworks.com/products/new_products/release2022a.html
   -  https://www.mathworks.com/products/new_products/release2021b.html
   -  https://www.mathworks.com/products/new_products/release2021a.html
   -  https://www.mathworks.com/products/new_products/release2020b.html
@@ -359,6 +362,18 @@ As of R2022a, the generic date and time functions have moved from Financial Tool
 
 https://www.mathworks.com/products/new_products/r2022b-transition.html
 
+Simulink
+
+As of R2022b, the Variant Manager feature in Simulink® has been moved into Variant Manager for Simulink®, a new support package for Simulink®.
+
+Simulink Design Verifier
+
+As of R2022b, the Variant Reducer and Variant Analysis Tool features in Simulink® Design Verifier™ have been moved into Variant Manager for Simulink®, a new support package for Simulink®.
+
+SimBiology
+
+As of R2022b, Statistics and Machine Learning Toolbox™ has been added as an additional required product for SimBiology™.
+
 ### Part I
 
   -  https://www.mathworks.com/help/pdf_doc/5g/index.html
@@ -413,6 +428,7 @@ https://www.mathworks.com/products/new_products/r2022b-transition.html
   -  https://www.mathworks.com/help/pdf_doc/matlab-parallel-server/index.html
   -  https://www.mathworks.com/help/pdf_doc/mbc/index.html
   -  https://www.mathworks.com/help/pdf_doc/mcb/index.html
+  -  https://www.mathworks.com/help/pdf_doc/medical-imaging/index.html
   -  https://www.mathworks.com/help/pdf_doc/mpc/index.html
   -  https://www.mathworks.com/help/pdf_doc/mps/index.html
   -  https://www.mathworks.com/help/pdf_doc/msblks/index.html
@@ -450,6 +466,7 @@ https://www.mathworks.com/products/new_products/r2022b-transition.html
   -  https://www.mathworks.com/help/pdf_doc/simbio/index.html
   -  https://www.mathworks.com/help/pdf_doc/simevents/index.html
   -  https://www.mathworks.com/help/pdf_doc/simrf/index.html
+  -  https://www.mathworks.com/help/pdf_doc/simscape-battery/index.html
   -  https://www.mathworks.com/help/pdf_doc/simulink/index.html
   -  https://www.mathworks.com/help/pdf_doc/sl3d/index.html
   -  https://www.mathworks.com/help/pdf_doc/slcheck/index.html
@@ -485,6 +502,7 @@ https://www.mathworks.com/products/new_products/r2022b-transition.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/freedomboard/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/freescalefrdmk64fboard/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/gigevisionhardware/index.html
+  -  https://www.mathworks.com/help/pdf_doc/supportpkg/infineonaurix/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/inteldeeplearning/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/intelsoc/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/ipcamera/index.html
@@ -512,6 +530,7 @@ https://www.mathworks.com/products/new_products/r2022b-transition.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/texasinstrumentsc2000concerto/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/tic2000soc/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/turtlebotrobot/index.html
+  -  https://www.mathworks.com/help/pdf_doc/supportpkg/urseries/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/usbwebcams/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/usrpembeddedseriesradio/index.html
   -  https://www.mathworks.com/help/pdf_doc/supportpkg/usrpradio/index.html
@@ -590,5 +609,3 @@ https://www.mathworks.com/products/new_products/r2022b-transition.html
   -  thingspeak	https://www.mathworks.com/help/thingspeak/index.html
   -  licensingoncloud	
   -  overview	
-  -  supportpkg/infineonaurix	
-  -  supportpkg/urseries	

@@ -534,6 +534,14 @@ https://www.mathworks.com/help/pdf_doc/map/map_ug.pdf
 
 https://www.mathworks.com/help/pdf_doc/map/rn.pdf
 
+#### Medical Imaging Toolbox
+
+https://www.mathworks.com/help/pdf_doc/medical-imaging/medical-ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/medical-imaging/medical-ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/medical-imaging/rn.pdf
+
 #### Vision HDL Toolbox
 
 https://www.mathworks.com/help/pdf_doc/visionhdl/rn.pdf
@@ -767,6 +775,14 @@ https://www.mathworks.com/help/pdf_doc/physmod/simscape/simscape_lang.pdf
 https://www.mathworks.com/help/pdf_doc/physmod/simscape/simscape_ref.pdf
 
 https://www.mathworks.com/help/pdf_doc/physmod/simscape/simscape_ug.pdf
+
+#### Simscape Battery
+
+https://www.mathworks.com/help/pdf_doc/simscape-battery/battery_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/simscape-battery/battery_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/simscape-battery/rn.pdf
 
 #### Simscape Driveline
 
@@ -1284,6 +1300,12 @@ https://www.mathworks.com/help/pdf_doc/supportpkg/gigevisionhardware/gige_ug.pdf
 
 https://www.mathworks.com/help/pdf_doc/supportpkg/gigevisionhardware/rn.pdf
 
+https://www.mathworks.com/help/pdf_doc/supportpkg/infineonaurix/infineonaurix_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/supportpkg/infineonaurix/infineonaurix_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/supportpkg/infineonaurix/rn.pdf
+
 https://www.mathworks.com/help/pdf_doc/supportpkg/inteldeeplearning/dlhdl_intel_ug.pdf
 
 https://www.mathworks.com/help/pdf_doc/supportpkg/inteldeeplearning/rn.pdf
@@ -1431,6 +1453,12 @@ https://www.mathworks.com/help/pdf_doc/supportpkg/turtlebotrobot/rn.pdf
 https://www.mathworks.com/help/pdf_doc/supportpkg/turtlebotrobot/turtlebotrobot_ref.pdf
 
 https://www.mathworks.com/help/pdf_doc/supportpkg/turtlebotrobot/turtlebotrobot_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/supportpkg/urseries/rn.pdf
+
+https://www.mathworks.com/help/pdf_doc/supportpkg/urseries/urseries_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/supportpkg/urseries/urseries_ug.pdf
 
 https://www.mathworks.com/help/pdf_doc/supportpkg/usbwebcams/rn.pdf
 

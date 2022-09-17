@@ -12,3 +12,4 @@ https://www.mathworks.com/help/releases/R2021a/docset.xml
 https://www.mathworks.com/help/releases/R2021b/docset.xml
 https://www.mathworks.com/help/releases/R2022a/docset.xml
 https://www.mathworks.com/help/releases/R2022b/docset.xml
+https://www.mathworks.com/help/releases/R2023a/docset.xml

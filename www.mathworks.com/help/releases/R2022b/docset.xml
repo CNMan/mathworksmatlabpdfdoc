@@ -127,6 +127,20 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>Cloud Integrations</display-name>
+      <help-location>cloudcenter</help-location>
+      <short-name>cloudcenter</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>parallel-computing</group>
+        </product-family>
+        <product-family>
+          <family>webonlyproducts</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
       <display-name>Communications Toolbox</display-name>
       <help-location>comm</help-location>
       <short-name>comm</short-name>
@@ -605,16 +619,6 @@
       </product-family-list>
     </product>
     <product>
-      <display-name>MATLAB Drive</display-name>
-      <help-location>matlabdrive</help-location>
-      <short-name>matlabdrive</short-name>
-      <product-family-list>
-        <product-family>
-          <family>webonlyproducts</family>
-        </product-family>
-      </product-family-list>
-    </product>
-    <product>
       <display-name>MATLAB Grader</display-name>
       <help-location>matlabgrader</help-location>
       <short-name>matlabgrader</short-name>
@@ -625,14 +629,10 @@
       </product-family-list>
     </product>
     <product>
-      <display-name>MATLAB in the Cloud</display-name>
-      <help-location>cloudcenter</help-location>
-      <short-name>cloudcenter</short-name>
+      <display-name>MATLAB Mobile</display-name>
+      <help-location>matlabmobile</help-location>
+      <short-name>matlabmobile</short-name>
       <product-family-list>
-        <product-family>
-          <family>matlab</family>
-          <group>parallel-computing</group>
-        </product-family>
         <product-family>
           <family>webonlyproducts</family>
         </product-family>
@@ -642,16 +642,6 @@
       <display-name>MATLAB Mobile for Android</display-name>
       <help-location>matlabmobile_android</help-location>
       <short-name>matlabmobile_android</short-name>
-      <product-family-list>
-        <product-family>
-          <family>webonlyproducts</family>
-        </product-family>
-      </product-family-list>
-    </product>
-    <product>
-      <display-name>MATLAB Mobile for iOS</display-name>
-      <help-location>matlabmobile</help-location>
-      <short-name>matlabmobile</short-name>
       <product-family-list>
         <product-family>
           <family>webonlyproducts</family>
@@ -699,6 +689,17 @@
         <product-family>
           <family>matlab</family>
           <group>desktop-web-deployment</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Medical Imaging Toolbox</display-name>
+      <help-location>medical-imaging</help-location>
+      <short-name>medical-imaging</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
         </product-family>
       </product-family-list>
     </product>
@@ -1104,6 +1105,17 @@
       <display-name>Simscape</display-name>
       <help-location>simscape</help-location>
       <short-name>simscape</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>physical-modeling</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simscape Battery</display-name>
+      <help-location>simscape-battery</help-location>
+      <short-name>simscape-battery</short-name>
       <product-family-list>
         <product-family>
           <family>simulink</family>
@@ -1698,17 +1710,6 @@
       </product-family-list>
     </addon>
     <addon>
-      <display-name>Embedded Coder Support Package for Texas Instruments C2000 F28M3x Concerto Processors</display-name>
-      <help-location>supportpkg/texasinstrumentsc2000concerto</help-location>
-      <short-name>texasinstrumentsc2000concerto</short-name>
-      <base-short-name>ecoder</base-short-name>
-      <product-family-list>
-        <product-family>
-          <family>hardwaresupportpackages</family>
-        </product-family>
-      </product-family-list>
-    </addon>
-    <addon>
       <display-name>Embedded Coder Support Package for Texas Instruments C2000 Processors</display-name>
       <help-location>supportpkg/texasinstrumentsc2000</help-location>
       <short-name>texasinstrumentsc2000</short-name>
@@ -1779,6 +1780,11 @@
       <help-location>supportpkg/xilinxrfsocdevices</help-location>
       <short-name>xilinxrfsocdevices</short-name>
       <base-short-name>hdlcoder</base-short-name>
+      <product-family-list>
+        <product-family>
+          <family>hardwaresupportpackages</family>
+        </product-family>
+      </product-family-list>
     </addon>
     <addon>
       <display-name>HDL Coder Support Package for Xilinx Zynq Platform</display-name>
@@ -2034,17 +2040,6 @@
       </product-family-list>
     </addon>
     <addon>
-      <display-name>Robotics System Toolbox Support Package for Manipulators</display-name>
-      <help-location>supportpkg/robotmanipulator</help-location>
-      <short-name>robotmanipulator</short-name>
-      <base-short-name>robotics</base-short-name>
-      <product-family-list>
-        <product-family>
-          <family>hardwaresupportpackages</family>
-        </product-family>
-      </product-family-list>
-    </addon>
-    <addon>
       <display-name>Robotics System Toolbox Support Package for Universal Robots UR Series Manipulators</display-name>
       <help-location>supportpkg/urseries</help-location>
       <short-name>urseries</short-name>
@@ -2277,4 +2272,3 @@
     </addon>
   </addon-list>
 </documentation-set>
-
