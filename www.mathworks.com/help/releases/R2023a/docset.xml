@@ -654,9 +654,9 @@
       </product-family-list>
     </product>
     <product>
-      <display-name>MATLAB Mobile for Android</display-name>
-      <help-location>matlabmobile_android</help-location>
-      <short-name>matlabmobile_android</short-name>
+      <display-name>MATLAB Online Server</display-name>
+      <help-location>matlab-online-server</help-location>
+      <short-name>matlab-online-server</short-name>
       <product-family-list>
         <product-family>
           <family>webonlyproducts</family>
@@ -693,6 +693,17 @@
         <product-family>
           <family>matlab</family>
           <group>database-access-and-reporting</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Test</display-name>
+      <help-location>matlab-test</help-location>
+      <short-name>matlab-test</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>verification-validation</group>
         </product-family>
       </product-family-list>
     </product>
@@ -1725,17 +1736,6 @@
       </product-family-list>
     </addon>
     <addon>
-      <display-name>Embedded Coder Support Package for Texas Instruments C2000 Processors</display-name>
-      <help-location>supportpkg/texasinstrumentsc2000</help-location>
-      <short-name>texasinstrumentsc2000</short-name>
-      <base-short-name>ecoder</base-short-name>
-      <product-family-list>
-        <product-family>
-          <family>hardwaresupportpackages</family>
-        </product-family>
-      </product-family-list>
-    </addon>
-    <addon>
       <display-name>Embedded Coder Support Package for Xilinx Zynq Platform</display-name>
       <help-location>supportpkg/xilinxzynq7000ec</help-location>
       <short-name>xilinxzynq7000ec</short-name>
@@ -2196,12 +2196,6 @@
           <family>hardwaresupportpackages</family>
         </product-family>
       </product-family-list>
-    </addon>
-    <addon>
-      <display-name>SoC Blockset Support Package for Texas Instruments C2000 Processors</display-name>
-      <help-location>supportpkg/tic2000soc</help-location>
-      <short-name>tic2000soc</short-name>
-      <base-short-name>soc</base-short-name>
     </addon>
     <addon>
       <display-name>SoC Blockset Support Package for Xilinx Devices</display-name>

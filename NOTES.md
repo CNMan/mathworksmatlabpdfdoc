@@ -24,6 +24,7 @@
   -  https://www.mathworks.com/support/requirements/supported-compilers.html
 
 ### Release Notes
+  -  https://www.mathworks.com/help/releases/R2023a/relnotes/
   -  https://www.mathworks.com/help/releases/R2022b/relnotes/
   -  https://www.mathworks.com/help/releases/R2022a/relnotes/
   -  https://www.mathworks.com/help/releases/R2021b/relnotes/
@@ -40,6 +41,7 @@
   -  https://www.mathworks.com/help/releases/R2016a/relnotes/
 
 ### Updates Release Notes
+  -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2023a/r2023a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2022b/r2022b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2022a/r2022a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2021b/r2021b-updates-release-notes.pdf
@@ -58,6 +60,7 @@
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2015asp1/r2015asp1-updates-release-notes.pdf
 
 ### Overviews for previous releases
+  -  https://www.mathworks.com/products/new_products/release2022b.html
   -  https://www.mathworks.com/products/new_products/release2022a.html
   -  https://www.mathworks.com/products/new_products/release2021b.html
   -  https://www.mathworks.com/products/new_products/release2021a.html
@@ -373,6 +376,16 @@ As of R2022b, the Variant Reducer and Variant Analysis Tool features in Simulink
 SimBiology
 
 As of R2022b, Statistics and Machine Learning Toolbox™ has been added as an additional required product for SimBiology™.
+
+https://www.mathworks.com/products/new_products/r2023a-transition.html
+
+Embedded Coder
+
+As of R2023a, Embedded Coder® Support Package for Texas Instruments™ C2000™ Processors has moved into the new C2000™ Microcontroller Blockset.
+
+SoC Blockset
+
+As of R2023a, SoC Blockset™ Support Package for Texas Instruments™ C2000™ Processors has moved into the new C2000™ Microcontroller Blockset.
 
 ### Part I
 
