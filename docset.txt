@@ -1,8 +1,3 @@
-https://www.mathworks.com/help/releases/R2016a/docset.xml
-https://www.mathworks.com/help/releases/R2016b/docset.xml
-https://www.mathworks.com/help/releases/R2017a/docset.xml
-https://www.mathworks.com/help/releases/R2017b/docset.xml
-https://www.mathworks.com/help/releases/R2018a/docset.xml
 https://www.mathworks.com/help/releases/R2018b/docset.xml
 https://www.mathworks.com/help/releases/R2019a/docset.xml
 https://www.mathworks.com/help/releases/R2019b/docset.xml
@@ -13,3 +8,5 @@ https://www.mathworks.com/help/releases/R2021b/docset.xml
 https://www.mathworks.com/help/releases/R2022a/docset.xml
 https://www.mathworks.com/help/releases/R2022b/docset.xml
 https://www.mathworks.com/help/releases/R2023a/docset.xml
+https://www.mathworks.com/help/releases/R2023b/docset.xml
+https://www.mathworks.com/help/releases/R2024a/docset.xml

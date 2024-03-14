@@ -1,6 +1,8 @@
   -  https://www.mathworks.com/downloads/
   -  https://www.mathworks.com/downloads/web_downloads/download_iso
   -  https://www.mathworks.com/downloads/web_downloads/download_update
+  -  https://www.mathworks.com/downloads/web_downloads/show_isos?release=R2023b
+  -  https://www.mathworks.com/downloads/web_downloads/show_updates?release=R2023b
   -  https://www.mathworks.com/help/index.html
   -  https://www.mathworks.com/matlabcentral/answers/index
   -  https://www.mathworks.com/products.html
@@ -23,7 +25,17 @@
   -  https://www.mathworks.com/support/requirements/simulink.html
   -  https://www.mathworks.com/support/requirements/supported-compilers.html
 
+### Offline Documentation
+  -  https://www.mathworks.com/doc-iso-r2023a-linux
+  -  https://www.mathworks.com/doc-iso-r2023a-mac
+  -  https://www.mathworks.com/doc-iso-r2023a-win
+  -  https://www.mathworks.com/doc-iso-r2023b-linux
+  -  https://www.mathworks.com/doc-iso-r2023b-mac
+  -  https://www.mathworks.com/doc-iso-r2023b-maca
+  -  https://www.mathworks.com/doc-iso-r2023b-win
+
 ### Release Notes
+  -  https://www.mathworks.com/help/releases/R2023b/relnotes/
   -  https://www.mathworks.com/help/releases/R2023a/relnotes/
   -  https://www.mathworks.com/help/releases/R2022b/relnotes/
   -  https://www.mathworks.com/help/releases/R2022a/relnotes/
@@ -41,6 +53,7 @@
   -  https://www.mathworks.com/help/releases/R2016a/relnotes/
 
 ### Updates Release Notes
+  -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2023b/r2023b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2023a/r2023a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2022b/r2022b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2022a/r2022a-updates-release-notes.pdf
@@ -60,6 +73,7 @@
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2015asp1/r2015asp1-updates-release-notes.pdf
 
 ### Overviews for previous releases
+  -  https://www.mathworks.com/products/new_products/release2023a.html
   -  https://www.mathworks.com/products/new_products/release2022b.html
   -  https://www.mathworks.com/products/new_products/release2022a.html
   -  https://www.mathworks.com/products/new_products/release2021b.html
@@ -386,6 +400,12 @@ As of R2023a, Embedded Coder® Support Package for Texas Instruments™ C2000™
 SoC Blockset
 
 As of R2023a, SoC Blockset™ Support Package for Texas Instruments™ C2000™ Processors has moved into the new C2000™ Microcontroller Blockset.
+
+https://www.mathworks.com/products/new_products/r2023b-transition.html
+
+Simulink Compiler
+
+As of R2023b, the standalone FMU export features in Simulink Compiler have been moved into FMU Builder for Simulink, a new support package for Simulink Compiler. Starting in R2023b, access these features by downloading the FMU Builder for Simulink from File Exchange.
 
 ### Part I
 
