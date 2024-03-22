@@ -193,6 +193,11 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>Cross-product categories</display-name>
+      <help-location>overview</help-location>
+      <short-name>overview</short-name>
+    </product>
+    <product>
       <display-name>Curve Fitting Toolbox</display-name>
       <help-location>curvefit</help-location>
       <short-name>curvefit</short-name>
