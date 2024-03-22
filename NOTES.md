@@ -14,6 +14,7 @@
   -  https://www.mathworks.com/products/new_products/release_model.html
   -  https://www.mathworks.com/store/
   -  https://www.mathworks.com/support/install/license_manager_files.html
+  -  https://www.mathworks.com/support/install/support-software-downloader.html
   -  https://www.mathworks.com/support/previous-release-compatibility.html
   -  https://www.mathworks.com/support/requirements/browser-requirements.html
   -  https://www.mathworks.com/support/requirements/choosing-a-computer.html
@@ -33,8 +34,13 @@
   -  https://www.mathworks.com/doc-iso-r2023b-mac
   -  https://www.mathworks.com/doc-iso-r2023b-maca
   -  https://www.mathworks.com/doc-iso-r2023b-win
+  -  https://www.mathworks.com/doc-iso-r2024a-linux
+  -  https://www.mathworks.com/doc-iso-r2024a-mac
+  -  https://www.mathworks.com/doc-iso-r2024a-maca
+  -  https://www.mathworks.com/doc-iso-r2024a-win
 
 ### Release Notes
+  -  https://www.mathworks.com/help/releases/R2024a/relnotes/
   -  https://www.mathworks.com/help/releases/R2023b/relnotes/
   -  https://www.mathworks.com/help/releases/R2023a/relnotes/
   -  https://www.mathworks.com/help/releases/R2022b/relnotes/
@@ -53,6 +59,7 @@
   -  https://www.mathworks.com/help/releases/R2016a/relnotes/
 
 ### Updates Release Notes
+  -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2024a/r2024a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2023b/r2023b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2023a/r2023a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2022b/r2022b-updates-release-notes.pdf
@@ -73,6 +80,7 @@
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2015asp1/r2015asp1-updates-release-notes.pdf
 
 ### Overviews for previous releases
+  -  https://www.mathworks.com/products/new_products/release2023b.html
   -  https://www.mathworks.com/products/new_products/release2023a.html
   -  https://www.mathworks.com/products/new_products/release2022b.html
   -  https://www.mathworks.com/products/new_products/release2022a.html
@@ -407,238 +415,151 @@ Simulink Compiler
 
 As of R2023b, the standalone FMU export features in Simulink Compiler have been moved into FMU Builder for Simulink, a new support package for Simulink Compiler. Starting in R2023b, access these features by downloading the FMU Builder for Simulink from File Exchange.
 
-### Part I
+https://www.mathworks.com/products/new_products/r2024a-transition.html
 
-  -  https://www.mathworks.com/help/pdf_doc/5g/index.html
-  -  https://www.mathworks.com/help/pdf_doc/aeroblks/index.html
-  -  https://www.mathworks.com/help/pdf_doc/aerotbx/index.html
-  -  https://www.mathworks.com/help/pdf_doc/antenna/index.html
-  -  https://www.mathworks.com/help/pdf_doc/audio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/autoblks/index.html
-  -  https://www.mathworks.com/help/pdf_doc/autosar/index.html
-  -  https://www.mathworks.com/help/pdf_doc/bioinfo/index.html
-  -  https://www.mathworks.com/help/pdf_doc/bluetooth/index.html
-  -  https://www.mathworks.com/help/pdf_doc/bugfinder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/certkitiec/index.html
-  -  https://www.mathworks.com/help/pdf_doc/codeprover/index.html
-  -  https://www.mathworks.com/help/pdf_doc/coder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/comm/index.html
-  -  https://www.mathworks.com/help/pdf_doc/compiler/index.html
-  -  https://www.mathworks.com/help/pdf_doc/compiler_sdk/index.html
-  -  https://www.mathworks.com/help/pdf_doc/control/index.html
-  -  https://www.mathworks.com/help/pdf_doc/curvefit/index.html
-  -  https://www.mathworks.com/help/pdf_doc/daq/index.html
-  -  https://www.mathworks.com/help/pdf_doc/database/index.html
-  -  https://www.mathworks.com/help/pdf_doc/datafeed/index.html
-  -  https://www.mathworks.com/help/pdf_doc/dds/index.html
-  -  https://www.mathworks.com/help/pdf_doc/deeplearning/index.html
-  -  https://www.mathworks.com/help/pdf_doc/deep-learning-hdl/index.html
-  -  https://www.mathworks.com/help/pdf_doc/driving/index.html
-  -  https://www.mathworks.com/help/pdf_doc/dsp/index.html
-  -  https://www.mathworks.com/help/pdf_doc/dsphdl/index.html
-  -  https://www.mathworks.com/help/pdf_doc/ecoder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/econ/index.html
-  -  https://www.mathworks.com/help/pdf_doc/exlink/index.html
-  -  https://www.mathworks.com/help/pdf_doc/finance/index.html
-  -  https://www.mathworks.com/help/pdf_doc/fininst/index.html
-  -  https://www.mathworks.com/help/pdf_doc/fixedpoint/index.html
-  -  https://www.mathworks.com/help/pdf_doc/fusion/index.html
-  -  https://www.mathworks.com/help/pdf_doc/fuzzy/index.html
-  -  https://www.mathworks.com/help/pdf_doc/gads/index.html
-  -  https://www.mathworks.com/help/pdf_doc/gpucoder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/hdlcoder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/hdlfilter/index.html
-  -  https://www.mathworks.com/help/pdf_doc/hdlverifier/index.html
-  -  https://www.mathworks.com/help/pdf_doc/icomm/index.html
-  -  https://www.mathworks.com/help/pdf_doc/ident/index.html
-  -  https://www.mathworks.com/help/pdf_doc/images/index.html
-  -  https://www.mathworks.com/help/pdf_doc/imaq/index.html
-  -  https://www.mathworks.com/help/pdf_doc/instrument/index.html
-  -  https://www.mathworks.com/help/pdf_doc/lidar/index.html
-  -  https://www.mathworks.com/help/pdf_doc/lte/index.html
-  -  https://www.mathworks.com/help/pdf_doc/map/index.html
-  -  https://www.mathworks.com/help/pdf_doc/matlab/index.html
-  -  https://www.mathworks.com/help/pdf_doc/matlab-parallel-server/index.html
-  -  https://www.mathworks.com/help/pdf_doc/mbc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/mcb/index.html
-  -  https://www.mathworks.com/help/pdf_doc/medical-imaging/index.html
-  -  https://www.mathworks.com/help/pdf_doc/mpc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/mps/index.html
-  -  https://www.mathworks.com/help/pdf_doc/msblks/index.html
-  -  https://www.mathworks.com/help/pdf_doc/nav/index.html
-  -  https://www.mathworks.com/help/pdf_doc/optim/index.html
-  -  https://www.mathworks.com/help/pdf_doc/parallel-computing/index.html
-  -  https://www.mathworks.com/help/pdf_doc/pde/index.html
-  -  https://www.mathworks.com/help/pdf_doc/phased/index.html
-  -  https://www.mathworks.com/help/pdf_doc/physmod/hydro/index.html
-  -  https://www.mathworks.com/help/pdf_doc/physmod/sdl/index.html
-  -  https://www.mathworks.com/help/pdf_doc/physmod/simscape/index.html
-  -  https://www.mathworks.com/help/pdf_doc/physmod/sm/index.html
-  -  https://www.mathworks.com/help/pdf_doc/physmod/smlink/index.html
-  -  https://www.mathworks.com/help/pdf_doc/physmod/sps/index.html
-  -  https://www.mathworks.com/help/pdf_doc/plccoder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/predmaint/index.html
-  -  https://www.mathworks.com/help/pdf_doc/qualkitdo/index.html
-  -  https://www.mathworks.com/help/pdf_doc/radar/index.html
-  -  https://www.mathworks.com/help/pdf_doc/reinforcement-learning/index.html
-  -  https://www.mathworks.com/help/pdf_doc/rf/index.html
-  -  https://www.mathworks.com/help/pdf_doc/rfpcb/index.html
-  -  https://www.mathworks.com/help/pdf_doc/risk/index.html
-  -  https://www.mathworks.com/help/pdf_doc/roadrunner/index.html
-  -  https://www.mathworks.com/help/pdf_doc/roadrunner-scenario/index.html
-  -  https://www.mathworks.com/help/pdf_doc/robotics/index.html
-  -  https://www.mathworks.com/help/pdf_doc/robust/index.html
-  -  https://www.mathworks.com/help/pdf_doc/ros/index.html
-  -  https://www.mathworks.com/help/pdf_doc/rptgen/index.html
-  -  https://www.mathworks.com/help/pdf_doc/rptgenext/index.html
-  -  https://www.mathworks.com/help/pdf_doc/rtw/index.html
-  -  https://www.mathworks.com/help/pdf_doc/satcom/index.html
-  -  https://www.mathworks.com/help/pdf_doc/serdes/index.html
-  -  https://www.mathworks.com/help/pdf_doc/signal/index.html
-  -  https://www.mathworks.com/help/pdf_doc/signal-integrity/index.html
-  -  https://www.mathworks.com/help/pdf_doc/simbio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/simevents/index.html
-  -  https://www.mathworks.com/help/pdf_doc/simrf/index.html
-  -  https://www.mathworks.com/help/pdf_doc/simscape-battery/index.html
-  -  https://www.mathworks.com/help/pdf_doc/simulink/index.html
-  -  https://www.mathworks.com/help/pdf_doc/sl3d/index.html
-  -  https://www.mathworks.com/help/pdf_doc/slcheck/index.html
-  -  https://www.mathworks.com/help/pdf_doc/slci/index.html
-  -  https://www.mathworks.com/help/pdf_doc/slcompiler/index.html
-  -  https://www.mathworks.com/help/pdf_doc/slcontrol/index.html
-  -  https://www.mathworks.com/help/pdf_doc/slcoverage/index.html
-  -  https://www.mathworks.com/help/pdf_doc/sldo/index.html
-  -  https://www.mathworks.com/help/pdf_doc/sldrt/index.html
-  -  https://www.mathworks.com/help/pdf_doc/sldv/index.html
-  -  https://www.mathworks.com/help/pdf_doc/slrealtime/index.html
-  -  https://www.mathworks.com/help/pdf_doc/slrequirements/index.html
-  -  https://www.mathworks.com/help/pdf_doc/sltest/index.html
-  -  https://www.mathworks.com/help/pdf_doc/soc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/stateflow/index.html
-  -  https://www.mathworks.com/help/pdf_doc/stats/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/alterafpgaboards/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/alterafpgaturnkeyboards/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/alterasocembeddedcoder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/alterasochdlcoder/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/android/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/appleios/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/arduino/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/arduinoio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/armcortexa/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/armcortexbasedvexmicrocontroller/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/armcortexm/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/armcortexr/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/beaglebone/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/beagleboneblue/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/beagleboneio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/embeddedlinuxsoc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/freedomboard/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/freescalefrdmk64fboard/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/gigevisionhardware/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/infineonaurix/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/inteldeeplearning/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/intelsoc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/ipcamera/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/kinectforwindowsruntime/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/legomindstormsev3/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/legomindstormsev3io/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/microbit/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/microfpgasoc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/microsemi/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/nivisaandicp/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/nucleo/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/nvidia/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/ousterlidar/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/parrot/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/parrotio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/plutoradio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/px4/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/raspberrypi/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/raspberrypiio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/robotmanipulator/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/rtlsdrradio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/ryzeio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/stmicroelectronicsstm32f4discovery/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/texasinstrumentsc2000/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/texasinstrumentsc2000concerto/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/tic2000soc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/turtlebotrobot/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/urseries/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/usbwebcams/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/usrpembeddedseriesradio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/usrpradio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/velodynelidar/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/vexv5/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxdeeplearning/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxfpgaboards/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxfpgaturnkeyboards/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxrfsocdevices/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxsoc/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxzynq7000/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxzynq7000ec/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxzynqbasedradio/index.html
-  -  https://www.mathworks.com/help/pdf_doc/supportpkg/xilinxzynqbasedvision/index.html
-  -  https://www.mathworks.com/help/pdf_doc/symbolic/index.html
-  -  https://www.mathworks.com/help/pdf_doc/systemcomposer/index.html
-  -  https://www.mathworks.com/help/pdf_doc/textanalytics/index.html
-  -  https://www.mathworks.com/help/pdf_doc/uav/index.html
-  -  https://www.mathworks.com/help/pdf_doc/vdynblks/index.html
-  -  https://www.mathworks.com/help/pdf_doc/vision/index.html
-  -  https://www.mathworks.com/help/pdf_doc/visionhdl/index.html
-  -  https://www.mathworks.com/help/pdf_doc/vnt/index.html
-  -  https://www.mathworks.com/help/pdf_doc/wavelet/index.html
-  -  https://www.mathworks.com/help/pdf_doc/webappserver/index.html
-  -  https://www.mathworks.com/help/pdf_doc/wireless-hdl/index.html
-  -  https://www.mathworks.com/help/pdf_doc/wireless-testbench/index.html
-  -  https://www.mathworks.com/help/pdf_doc/wlan/index.html
+Aerospace Blockset
 
-### Part II
+As of R2024a, Aerospace Blockset’s use of Unreal Engine® features will require Simulink 3D Animation.
 
-  -  cloudcenter	https://www.mathworks.com/help/cloudcenter/index.html
-  -  matlabdrive	https://www.mathworks.com/help/matlabdrive/index.html
-  -  matlabgrader	https://www.mathworks.com/help/matlabgrader/index.html
-  -  matlabmobile	https://www.mathworks.com/help/matlabmobile/index.html
-  -  matlabmobile_android	https://www.mathworks.com/help/matlabmobile_android/index.html
-  -  install	https://www.mathworks.com/help/pdf_doc/install/index.html
-  -  hydro	https://www.mathworks.com/help/pdf_doc/physmod/hydro/index.html
-  -  sdl	https://www.mathworks.com/help/pdf_doc/physmod/sdl/index.html
-  -  simscape	https://www.mathworks.com/help/pdf_doc/physmod/simscape/index.html
-  -  sm	https://www.mathworks.com/help/pdf_doc/physmod/sm/index.html
-  -  smlink	https://www.mathworks.com/help/pdf_doc/physmod/smlink/index.html
-  -  sps	https://www.mathworks.com/help/pdf_doc/physmod/sps/index.html
-  -  polyspace_ada	https://www.mathworks.com/help/polyspace_ada/index.html
-  -  rtwin	https://www.mathworks.com/help/releases/R2016a/pdf_doc/rtwin/index.html
-  -  supportpkg/beagleboard	https://www.mathworks.com/help/releases/R2016a/supportpkg/beagleboard/index.html
-  -  supportpkg/texasinstrumentsc6000	https://www.mathworks.com/help/releases/R2016a/supportpkg/texasinstrumentsc6000/index.html
-  -  supportpkg/legomindstormsnxt	https://www.mathworks.com/help/releases/R2016b/supportpkg/legomindstormsnxt/index.html
-  -  slvnv	https://www.mathworks.com/help/releases/R2017a/pdf_doc/slvnv/index.html
-  -  supportpkg/windrivervxworks	https://www.mathworks.com/help/releases/R2017a/supportpkg/windrivervxworks/index.html
-  -  supportpkg/xilinxfpgabasedradio	https://www.mathworks.com/help/releases/R2017a/supportpkg/xilinxfpgabasedradio/index.html
-  -  nnet	https://www.mathworks.com/help/releases/R2018a/pdf_doc/nnet/index.html
-  -  supportpkg/oceanopticsspectrometers	https://www.mathworks.com/help/releases/R2018a/supportpkg/oceanopticsspectrometers/index.html
-  -  distcomp	https://www.mathworks.com/help/releases/R2018b/pdf_doc/distcomp/index.html
-  -  mdce	https://www.mathworks.com/help/releases/R2018b/pdf_doc/mdce/index.html
-  -  supportpkg/autosarstandard	https://www.mathworks.com/help/releases/R2018b/supportpkg/autosarstandard/index.html
-  -  ltehdl	https://www.mathworks.com/help/releases/R2019a/pdf_doc/ltehdl/index.html
-  -  physmod/elec	https://www.mathworks.com/help/releases/R2019a/pdf_doc/physmod/elec/index.html
-  -  trading	https://www.mathworks.com/help/releases/R2020b/pdf_doc/trading/index.html
-  -  xpc	https://www.mathworks.com/help/releases/R2020b/pdf_doc/xpc/index.html
-  -  supportpkg/analogdevicesadalm1000	https://www.mathworks.com/help/releases/R2020b/supportpkg/analogdevicesadalm1000/index.html
-  -  supportpkg/nfc	https://www.mathworks.com/help/releases/R2020b/supportpkg/nfc/index.html
-  -  polyspace_bug_finder_access	https://www.mathworks.com/help/releases/R2021a/pdf_doc/polyspace_bug_finder_access/index.html
-  -  polyspace_bug_finder_server	https://www.mathworks.com/help/releases/R2021a/pdf_doc/polyspace_bug_finder_server/index.html
-  -  polyspace_code_prover_access	https://www.mathworks.com/help/releases/R2021a/pdf_doc/polyspace_code_prover_access/index.html
-  -  polyspace_code_prover_server	https://www.mathworks.com/help/releases/R2021a/pdf_doc/polyspace_code_prover_server/index.html
-  -  supportpkg/jetsoncpu	https://www.mathworks.com/help/releases/R2021a/pdf_doc/supportpkg/jetsoncpu/index.html
-  -  supportpkg/armcortexadst	https://www.mathworks.com/help/releases/R2021a/supportpkg/armcortexadst/index.html
-  -  supportpkg/armcortexmdst	https://www.mathworks.com/help/releases/R2021a/supportpkg/armcortexmdst/index.html
-  -  opc	https://www.mathworks.com/help/releases/R2021b/pdf_doc/opc/index.html
-  -  supportpkg/iossensor	https://www.mathworks.com/help/supportpkg/iossensor/index.html
-  -  supportpkg/mobilesensor	https://www.mathworks.com/help/supportpkg/mobilesensor/index.html
-  -  supportpkg/ni845xi2cdriver	https://www.mathworks.com/help/supportpkg/ni845xi2cdriver/index.html
-  -  supportpkg/nidcpower	https://www.mathworks.com/help/supportpkg/nidcpower/index.html
-  -  supportpkg/nidmm	https://www.mathworks.com/help/supportpkg/nidmm/index.html
-  -  supportpkg/zigbee	https://www.mathworks.com/help/supportpkg/zigbee/index.html
-  -  thingspeak	https://www.mathworks.com/help/thingspeak/index.html
-  -  licensingoncloud	
-  -  overview	
+Automated Driving Toolbox
+
+As of R2024a, Automated Driving Toolbox’s use of Unreal Engine® features will require Simulink 3D Animation.
+
+UAV Toolbox
+
+As of R2024a, UAV Toolbox’s use of Unreal Engine® features will require Simulink 3D Animation.
+
+Vehicle Dynamics Blockset
+
+As of R2024a, Vehicle Dynamics Blockset’s use of Unreal Engine® features will require Simulink 3D Animation.
+
+Communications Toolbox
+
+As of R2024a, live data I/O support for these NI USRP radios has moved from Communications Toolbox™ Support Package for USRP Radio to Wireless Testbench™ Support Package for NI™ USRP® Radios:
+
+    USRP N300
+    USRP N310
+    USRP N320
+    USRP X300
+    USRP X310
+
+Communications Toolbox
+
+As of R2024a, the Communications Toolbox™ Support Package for Xilinx® Zynq®-Based Radio has been merged into the SoC Blockset™ Support Package for Xilinx® Devices.
+
+Vision HDL Toolbox
+
+As of R2024a, the Vision HDL Toolbox™ Support Package for Xilinx® Zynq®-Based Hardware has been merged into the SoC Blockset™ Support Package for Xilinx® Devices.
+
+### License Manager
+
+  -  https://www.mathworks.com/supportfiles/downloads/R2013b/license_manager/R2013b/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2013b/license_manager/R2013b/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2013b/license_manager/R2013b/daemons/win32/flexnet_win32.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2013b/license_manager/R2013b/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014a/license_manager/R2014a/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014a/license_manager/R2014a/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014a/license_manager/R2014a/daemons/win32/flexnet_win32.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014a/license_manager/R2014a/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014b/license_manager/R2014b/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014b/license_manager/R2014b/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014b/license_manager/R2014b/daemons/win32/flexnet_win32.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2014b/license_manager/R2014b/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015a/license_manager/R2015a/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015a/license_manager/R2015a/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015a/license_manager/R2015a/daemons/win32/flexnet_win32.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015a/license_manager/R2015a/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015b/license_manager/R2015b/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015b/license_manager/R2015b/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015b/license_manager/R2015b/daemons/win32/flexnet_win32.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2015b/license_manager/R2015b/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2016a/license_manager/R2016a/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2016a/license_manager/R2016a/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2016a/license_manager/R2016a/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2016b/license_manager/R2016b/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2016b/license_manager/R2016b/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2016b/license_manager/R2016b/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2017a/license_manager/R2017a/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2017a/license_manager/R2017a/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2017a/license_manager/R2017a/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2017b/license_manager/R2017b/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2017b/license_manager/R2017b/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2017b/license_manager/R2017b/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2018a/license_manager/R2018a/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2018a/license_manager/R2018a/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2018a/license_manager/R2018a/daemons/win64/flexnet_win64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2018b/license_manager/R2018b/daemons/glnxa64/flexnet_glnxa64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2018b/license_manager/R2018b/daemons/maci64/flexnet_maci64.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2018b/license_manager/R2018b/daemons/win64/flexnet_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2019a/license_manager/R2019a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2019a/license_manager/R2019a/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2019a/license_manager/R2019a/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2019b/license_manager/R2019b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2019b/license_manager/R2019b/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2019b/license_manager/R2019b/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2020a/license_manager/R2020a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2020a/license_manager/R2020a/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2020a/license_manager/R2020a/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2020b/license_manager/R2020b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2020b/license_manager/R2020b/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2020b/license_manager/R2020b/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2021a/license_manager/R2021a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2021a/license_manager/R2021a/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2021a/license_manager/R2021a/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2021b/license_manager/R2021b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2021b/license_manager/R2021b/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2021b/license_manager/R2021b/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2022a/license_manager/R2022a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2022a/license_manager/R2022a/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2022a/license_manager/R2022a/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2022b/license_manager/R2022b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2022b/license_manager/R2022b/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2022b/license_manager/R2022b/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2023a/license_manager/R2023a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2023a/license_manager/R2023a/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2023a/license_manager/R2023a/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2023b/license_manager/R2023b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2023b/license_manager/R2023b/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2023b/license_manager/R2023b/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2024a/license_manager/R2024a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2024a/license_manager/R2024a/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2024a/license_manager/R2024a/daemons/win64/mathworks_network_license_manager_win64.zip
+
+### Support Software Downloader
+
+  -  https://www.mathworks.com/supportfiles/downloads/R2018b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2018b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2018b/ssi_downloader/maci64/SupportSoftwareDownloader_R2018b_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2018b/ssi_downloader/win64/SupportSoftwareDownloader_R2018b_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2019a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2019a_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2019a/ssi_downloader/maci64/SupportSoftwareDownloader_R2019a_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2019a/ssi_downloader/win64/SupportSoftwareDownloader_R2019a_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2019b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2019b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2019b/ssi_downloader/maci64/SupportSoftwareDownloader_R2019b_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2019b/ssi_downloader/win64/SupportSoftwareDownloader_R2019b_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2020a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2020a_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2020a/ssi_downloader/maci64/SupportSoftwareDownloader_R2020a_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2020a/ssi_downloader/win64/SupportSoftwareDownloader_R2020a_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2020b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2020b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2020b/ssi_downloader/maci64/SupportSoftwareDownloader_R2020b_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2020b/ssi_downloader/win64/SupportSoftwareDownloader_R2020b_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2021a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2021a_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2021a/ssi_downloader/maci64/SupportSoftwareDownloader_R2021a_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2021a/ssi_downloader/win64/SupportSoftwareDownloader_R2021a_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2021b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2021b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2021b/ssi_downloader/maci64/SupportSoftwareDownloader_R2021b_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2021b/ssi_downloader/win64/SupportSoftwareDownloader_R2021b_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2022a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2022a_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2022a/ssi_downloader/maci64/SupportSoftwareDownloader_R2022a_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2022a/ssi_downloader/win64/SupportSoftwareDownloader_R2022a_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2022b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2022b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2022b/ssi_downloader/maci64/SupportSoftwareDownloader_R2022b_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2022b/ssi_downloader/win64/SupportSoftwareDownloader_R2022b_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2023a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2023a_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2023a/ssi_downloader/maci64/SupportSoftwareDownloader_R2023a_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2023a/ssi_downloader/win64/SupportSoftwareDownloader_R2023a_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2023b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2023b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2023b/ssi_downloader/maci64/SupportSoftwareDownloader_R2023b_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2023b/ssi_downloader/win64/SupportSoftwareDownloader_R2023b_win64.exe
+  -  https://www.mathworks.com/supportfiles/downloads/R2024a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2024a_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2024a/ssi_downloader/maci64/SupportSoftwareDownloader_R2024a_maci64.dmg.zip
+  -  https://www.mathworks.com/supportfiles/downloads/R2024a/ssi_downloader/win64/SupportSoftwareDownloader_R2024a_win64.exe
