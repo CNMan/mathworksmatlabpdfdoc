@@ -1,3 +1,5 @@
 https://www.mathworks.com/help/releases/R2023a/docset.xml
 https://www.mathworks.com/help/releases/R2023b/docset.xml
 https://www.mathworks.com/help/releases/R2024a/docset.xml
+https://www.mathworks.com/help/releases/R2024b/docset.xml
+https://www.mathworks.com/help/releases/R2025a/docset.xml

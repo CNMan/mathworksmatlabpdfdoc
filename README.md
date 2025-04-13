@@ -938,9 +938,9 @@ https://www.mathworks.com/help/pdf_doc/satcom/satcom_ug.pdf
 
 #### Simscape Driveline
 
-https://www.mathworks.com/help/pdf_doc/sdl/rn.pdf
+https://www.mathworks.com/help/pdf_doc/sdl/gs.pdf
 
-https://www.mathworks.com/help/pdf_doc/sdl/sdl_gs.pdf
+https://www.mathworks.com/help/pdf_doc/sdl/rn.pdf
 
 https://www.mathworks.com/help/pdf_doc/sdl/sdl_ref.pdf
 
@@ -1993,6 +1993,8 @@ https://www.mathworks.com/help/releases/R2023b/pdf_doc/supportpkg/vexv5/vexv5_ug
 https://www.mathworks.com/help/releases/R2023b/pdf_doc/supportpkg/xilinxzynqbasedradio/rn.pdf
 
 https://www.mathworks.com/help/releases/R2023b/pdf_doc/supportpkg/xilinxzynqbasedradio/xilinxzynqbasedradio_ug.pdf
+
+https://www.mathworks.com/help/releases/R2024a/pdf_doc/uav/px4_ref.pdf
 
 #### The PDF Documentation for the following components maybe not completely available due to lack of license, please complement if you have license.
 
