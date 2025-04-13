@@ -193,11 +193,6 @@
       </product-family-list>
     </product>
     <product>
-      <display-name>Cross-product categories</display-name>
-      <help-location>overview</help-location>
-      <short-name>overview</short-name>
-    </product>
-    <product>
       <display-name>Curve Fitting Toolbox</display-name>
       <help-location>curvefit</help-location>
       <short-name>curvefit</short-name>
@@ -1690,22 +1685,12 @@
       <help-location>supportpkg/mobilesensor</help-location>
       <short-name>mobilesensor</short-name>
       <base-short-name>matlab</base-short-name>
-      <product-family-list>
-        <product-family>
-          <family>hardwaresupportpackages</family>
-        </product-family>
-      </product-family-list>
     </addon>
     <addon>
       <display-name>MATLAB Support Package for Apple iOS Sensors</display-name>
       <help-location>supportpkg/iossensor</help-location>
       <short-name>iossensor</short-name>
       <base-short-name>matlab</base-short-name>
-      <product-family-list>
-        <product-family>
-          <family>hardwaresupportpackages</family>
-        </product-family>
-      </product-family-list>
     </addon>
     <addon>
       <display-name>MATLAB Support Package for Arduino Hardware</display-name>
