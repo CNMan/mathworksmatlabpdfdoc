@@ -296,6 +296,20 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>DO Qualification Kit (for DO-178)</display-name>
+      <help-location>qualkitdo</help-location>
+      <short-name>qualkitdo</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
       <display-name>DSP HDL Toolbox</display-name>
       <help-location>dsphdl</help-location>
       <short-name>dsphdl</short-name>
@@ -468,6 +482,20 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>IEC Certification Kit (for ISO 26262 and IEC 61508)</display-name>
+      <help-location>certkitiec</help-location>
+      <short-name>certkitiec</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
       <display-name>Image Acquisition Toolbox</display-name>
       <help-location>imaq</help-location>
       <short-name>imaq</short-name>
@@ -624,6 +652,16 @@
       <display-name>MATLAB Mobile</display-name>
       <help-location>matlabmobile</help-location>
       <short-name>matlabmobile</short-name>
+      <product-family-list>
+        <product-family>
+          <family>webonlyproducts</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>MATLAB Online Server</display-name>
+      <help-location>matlab-online-server</help-location>
+      <short-name>matlab-online-server</short-name>
       <product-family-list>
         <product-family>
           <family>webonlyproducts</family>
@@ -801,6 +839,20 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>Polyspace Access</display-name>
+      <help-location>polyspace_access</help-location>
+      <short-name>polyspace_access</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
       <display-name>Polyspace Bug Finder</display-name>
       <help-location>bugfinder</help-location>
       <short-name>bugfinder</short-name>
@@ -818,6 +870,20 @@
       <display-name>Polyspace Code Prover</display-name>
       <help-location>codeprover</help-location>
       <short-name>codeprover</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Polyspace Products for Ada</display-name>
+      <help-location>polyspace_ada</help-location>
+      <short-name>polyspace_ada</short-name>
       <product-family-list>
         <product-family>
           <family>simulink</family>
@@ -951,6 +1017,28 @@
         <product-family>
           <family>matlab</family>
           <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>RoadRunner</display-name>
+      <help-location>roadrunner</help-location>
+      <short-name>roadrunner</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>robotics-autonomous</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>RoadRunner Scenario</display-name>
+      <help-location>roadrunner-scenario</help-location>
+      <short-name>roadrunner-scenario</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>robotics-autonomous</group>
         </product-family>
       </product-family-list>
     </product>

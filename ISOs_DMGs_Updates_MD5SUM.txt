@@ -459,6 +459,14 @@ R2024b_Linux.iso	13595379712	0f650360f434432bbfdac8eb7a3baaa0
 R2024b_macOSAppleSilicon.dmg	
 R2024b_macOSIntelProcessor.dmg	
 R2024b_Windows.iso	13654083584	d65900fe1e6a254c5c8efc34d4d8154c
+R2025a_Update_1_Linux.iso	15274164224	c7fef69eaaf4fab41a60ebac05830b83
+R2025a_Update_1_macOSAppleSilicon.dmg	7292799283	b7c69c7426e16f3e9fbca4c3edfc3d31
+R2025a_Update_1_macOSIntelProcessor.dmg	8378546506	840d0bb22dcdff59920e9d5a8ded93c0
+R2025a_Update_1_Windows.iso	15424239616	01c589b0df48ac7a515c429ba57e061e
+R2025a_Linux.iso	15180027904	bc4386cf34f2e5a81586fbf9d712207e
+R2025a_macOSAppleSilicon.dmg	7251437854	e6ac83464476c8d288b7306918b00dc8
+R2025a_macOSIntelProcessor.dmg	8330742073	38677e4738a8b0b8c95ed9a086e19484
+R2025a_Windows.iso	15310153728	032c4e21b501b21cafb1c1a6662b1d4c
 
 https://ssd.mathworks.com/supportfiles/downloads/R2023a/Release/5/doc/R2023a_Doc_Linux.iso
 https://ssd.mathworks.com/supportfiles/downloads/R2023a/Release/5/doc/R2023a_Doc_macOS.dmg
@@ -476,6 +484,9 @@ https://ssd.mathworks.com/supportfiles/downloads/R2024a/docisoimages/DOCPKGS2024
 
 https://ssd.mathworks.com/supportfiles/downloads/R2024b/docisoimages/DOCPKGS2025Jan_24b/R2024b_Doc_Linux.iso
 https://ssd.mathworks.com/supportfiles/downloads/R2024b/docisoimages/DOCPKGS2025Jan_24b/R2024b_Doc_Windows.iso
+
+https://ssd.mathworks.com/supportfiles/downloads/R2025a/docisoimages/DOCPKGS25aGR/R2025a_Doc_Linux.iso
+https://ssd.mathworks.com/supportfiles/downloads/R2025a/docisoimages/DOCPKGS25aGR/R2025a_Doc_Windows.iso
 
 Polyspace for C/C++:
 C_R2008a_5.iso	468MB	fe274299c24fabbc52c955bf65fb521f
