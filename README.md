@@ -416,12 +416,6 @@ https://www.mathworks.com/help/pdf_doc/hdlcoder/xilinxzynq7000_ref.pdf
 
 https://www.mathworks.com/help/pdf_doc/hdlcoder/xilinxzynq7000_ug.pdf
 
-#### Filter Design HDL Coder
-
-https://www.mathworks.com/help/pdf_doc/hdlfilter/hdlfilter.pdf
-
-https://www.mathworks.com/help/pdf_doc/hdlfilter/rn.pdf
-
 #### HDL Verifier
 
 https://www.mathworks.com/help/pdf_doc/hdlverifier/alterafpgaboards_ug.pdf
@@ -724,15 +718,15 @@ https://www.mathworks.com/help/pdf_doc/plccoder/rn.pdf
 
 #### Polyspace Products for Ada
 
-https://www.mathworks.com/help/pdf_doc/polyspace/ada_gsg.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_ada/ada_gsg.pdf
 
-https://www.mathworks.com/help/pdf_doc/polyspace/ada_ref.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_ada/ada_ref.pdf
 
-https://www.mathworks.com/help/pdf_doc/polyspace/ada_ug.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_ada/ada_ug.pdf
 
-https://www.mathworks.com/help/pdf_doc/polyspace/polyspace_install.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_ada/polyspace_install.pdf
 
-https://www.mathworks.com/help/pdf_doc/polyspace/rn.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_ada/rn.pdf
 
 #### Polyspace Access
 
@@ -1469,6 +1463,10 @@ https://www.mathworks.com/help/releases/R2023b/pdf_doc/slcontrol/slcontrol_gsg.p
 https://www.mathworks.com/help/releases/R2024a/pdf_doc/uav/px4_ref.pdf
 
 https://www.mathworks.com/help/releases/R2024b/pdf_doc/ecoder/armcortexm_ug.pdf
+
+https://www.mathworks.com/help/releases/R2024b/pdf_doc/hdlfilter/hdlfilter.pdf
+
+https://www.mathworks.com/help/releases/R2024b/pdf_doc/hdlfilter/rn.pdf
 
 #### The PDF Documentation for the following components maybe not completely available due to lack of license, please complement if you have license.
 

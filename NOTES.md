@@ -46,8 +46,13 @@
   -  https://www.mathworks.com/doc-iso-r2025a-mac
   -  https://www.mathworks.com/doc-iso-r2025a-maca
   -  https://www.mathworks.com/doc-iso-r2025a-win
+  -  https://www.mathworks.com/doc-iso-r2025b-linux
+  -  https://www.mathworks.com/doc-iso-r2025b-mac
+  -  https://www.mathworks.com/doc-iso-r2025b-maca
+  -  https://www.mathworks.com/doc-iso-r2025b-win
 
 ### Release Notes
+  -  https://www.mathworks.com/help/releases/R2025b/relnotes/
   -  https://www.mathworks.com/help/releases/R2025a/relnotes/
   -  https://www.mathworks.com/help/releases/R2024b/relnotes/
   -  https://www.mathworks.com/help/releases/R2024a/relnotes/
@@ -69,6 +74,7 @@
   -  https://www.mathworks.com/help/releases/R2016a/relnotes/
 
 ### Updates Release Notes
+  -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2025b/r2025b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2025a/r2025a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2024b/r2024b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2024a/r2024a-updates-release-notes.pdf
@@ -92,6 +98,7 @@
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2015asp1/r2015asp1-updates-release-notes.pdf
 
 ### Overviews for previous releases
+  -  https://www.mathworks.com/products/new_products/release2025a.html
   -  https://www.mathworks.com/products/new_products/release2024b.html
   -  https://www.mathworks.com/products/new_products/release2024a.html
   -  https://www.mathworks.com/products/new_products/release2023b.html
@@ -483,7 +490,6 @@ As of R2024b, the following modulation functions and blocks in Communications To
 
 https://www.mathworks.com/products/new_products/r2025a-transition.html
 
-
 Filter Design HDL Coder
 
 As of R2025a, Filter Design HDL Coder is discontinued and no longer available for purchase. 
@@ -569,6 +575,9 @@ MathWorks recommends the use of DSP HDL Toolbox, which encompasses the filter st
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025a/license_manager/R2025a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025a/license_manager/R2025a/daemons/maci64/mathworks_network_license_manager_maci64.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025a/license_manager/R2025a/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/license_manager/R2025b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/license_manager/R2025b/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/license_manager/R2025b/daemons/win64/mathworks_network_license_manager_win64.zip
 
 ### Support Software Downloader
 
@@ -614,3 +623,6 @@ MathWorks recommends the use of DSP HDL Toolbox, which encompasses the filter st
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2025a_glnxa64.bin
   -  https://www.mathworks.com/supportfiles/downloads/R2025a/ssi_downloader/maci64/SupportSoftwareDownloader_R2025a_maci64.dmg.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025a/ssi_downloader/win64/SupportSoftwareDownloader_R2025a_win64.exe
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2025b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2025b/ssi_downloader/maci64/SupportSoftwareDownloader_R2025b_maci64.dmg.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/ssi_downloader/win64/SupportSoftwareDownloader_R2025b_win64.exe
