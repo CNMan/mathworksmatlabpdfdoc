@@ -549,21 +549,6 @@
       </product-family-list>
     </product>
     <product>
-      <display-name>Lidar Toolbox</display-name>
-      <help-location>lidar</help-location>
-      <short-name>lidar</short-name>
-      <product-family-list>
-        <product-family>
-          <family>matlab</family>
-          <group>image-video-processing</group>
-        </product-family>
-        <product-family>
-          <family>matlab</family>
-          <group>robotics-autonomous</group>
-        </product-family>
-      </product-family-list>
-    </product>
-    <product>
       <display-name>LTE Toolbox</display-name>
       <help-location>lte</help-location>
       <short-name>lte</short-name>
@@ -825,6 +810,21 @@
         <product-family>
           <family>simulink</family>
           <group>signal-processing</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Point Cloud Toolbox</display-name>
+      <help-location>pointcloud</help-location>
+      <short-name>pointcloud</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
+        </product-family>
+        <product-family>
+          <family>matlab</family>
+          <group>robotics-autonomous</group>
         </product-family>
       </product-family-list>
     </product>
@@ -1228,8 +1228,8 @@
     </product>
     <product>
       <display-name>Simscape Electrical</display-name>
-      <help-location>sps</help-location>
-      <short-name>sps</short-name>
+      <help-location>simscape-electrical</help-location>
+      <short-name>simscape-electrical</short-name>
       <product-family-list>
         <product-family>
           <family>simulink</family>
@@ -1457,7 +1457,18 @@
       </product-family-list>
     </product>
     <product>
-      <display-name>SoC Blockset</display-name>
+      <display-name>Simulink Variant Manager</display-name>
+      <help-location>simulink-variant-manager</help-location>
+      <short-name>simulink-variant-manager</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>systems-engineering</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>SoC Blockset (for AMD)</display-name>
       <help-location>soc</help-location>
       <short-name>soc</short-name>
       <product-family-list>
@@ -1630,6 +1641,17 @@
         <product-family>
           <family>matlab</family>
           <group>fpga-asic-soc</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Visual Inspection Toolbox</display-name>
+      <help-location>visual-inspection</help-location>
+      <short-name>visual-inspection</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>image-video-processing</group>
         </product-family>
       </product-family-list>
     </product>
