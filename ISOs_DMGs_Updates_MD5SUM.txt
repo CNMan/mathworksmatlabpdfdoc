@@ -1,4 +1,5 @@
 Latest ISO/DMG with Update MD5SUM since R2008b(some versions don't have full dmg for MacOS):
+R2026a (15 Apr 2026)
 R2025b Update 5 (24 Mar 2026)
 R2025a Update 1 (21 Jul 2025)
 R2024b Update 8 (05 Mar 2026)
@@ -527,6 +528,9 @@ R2025b_Linux.iso	15294607360	5542e39640a0cd8236c005b997d93d9d
 R2025b_macOSAppleSilicon.dmg	7295482211	ef965042e2c5afe1d69040f93e5aaee3
 R2025b_macOSIntelProcessor.dmg	8378374526	52b6a56d18879b74a8b76274b46c72bc
 R2025b_Windows.iso	15434143744	debd5c4934cec8ea86c32fe925ca30aa
+R2026a_Linux.iso	17665679360	564e74973943bd304c284a5e8a5be327
+R2026a_macOSAppleSilicon.dmg	8106858851	5709cc219e70aaa384a5c5d0959d50ad
+R2026a_Windows.iso	17448212480	cd0427fa888908fe1539bd58a5d89464
 
 https://ssd.mathworks.com/supportfiles/downloads/R2023a/Release/5/doc/R2023a_Doc_Linux.iso
 https://ssd.mathworks.com/supportfiles/downloads/R2023a/Release/5/doc/R2023a_Doc_macOS.dmg
@@ -562,6 +566,9 @@ https://ssd.mathworks.com/supportfiles/downloads/R2025b/docisoimages/DOCPKGS25bG
 https://ssd.mathworks.com/supportfiles/downloads/R2025b/docisoimages/DOCPKGS25bGR/R2025b_Doc_Windows.iso
 https://ssd.mathworks.com/supportfiles/downloads/R2025b/docisoimages/DOCPKGS2026Feb_25b/R2025b_Doc_Linux.iso
 https://ssd.mathworks.com/supportfiles/downloads/R2025b/docisoimages/DOCPKGS2026Feb_25b/R2025b_Doc_Windows.iso
+
+https://ssd.mathworks.com/supportfiles/downloads/R2026a/docisoimages/DOCPKGS26aGR/R2026a_Doc_Linux.iso
+https://ssd.mathworks.com/supportfiles/downloads/R2026a/docisoimages/DOCPKGS26aGR/R2026a_Doc_Windows.iso
 
 Polyspace for C/C++:
 C_R2008a_5.iso	468MB	fe274299c24fabbc52c955bf65fb521f
@@ -702,6 +709,8 @@ RoadRunner_R2025b_Update_1_glnxa64.deb	3676556266	df029f77765f089ee770ac1a7f609e
 RoadRunner_R2025b_Update_1_win64.exe	1742848600	f1658207252c2bdafd72cf242d9e7808
 RoadRunner_R2025b_glnxa64.deb	3684680096	68f3874799cb18097bd280f5c4a05562
 RoadRunner_R2025b_win64.exe	1743440264	61f459720fe3a6603b942c0cadf9e0ea
+RoadRunner_R2026a_glnxa64.deb	3436362530	50504dccd062136ba20abafcf9e850dd
+RoadRunner_R2026a_win64.exe	1538399992	1e4faf181f11365b6042a5aebb4e7725
 
 R2015a_SP1_Update_3_win32.exe	245MB	7d8e5a666594cba27bb6220f297e2ff5
 R2015a_SP1_Update_3_win64.exe	279MB	b78a2b888ae8280bd493e438cd82185e
