@@ -296,6 +296,20 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>DO Qualification Kit (for DO-178)</display-name>
+      <help-location>qualkitdo</help-location>
+      <short-name>qualkitdo</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
       <display-name>DSP HDL Toolbox</display-name>
       <help-location>dsphdl</help-location>
       <short-name>dsphdl</short-name>
@@ -464,6 +478,20 @@
         <product-family>
           <family>simulink</family>
           <group>code-generation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>IEC Certification Kit (for ISO 26262 and IEC 61508)</display-name>
+      <help-location>certkitiec</help-location>
+      <short-name>certkitiec</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
         </product-family>
       </product-family-list>
     </product>
@@ -815,6 +843,20 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>Polyspace as You Code</display-name>
+      <help-location>payc</help-location>
+      <short-name>payc</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
       <display-name>Polyspace Bug Finder</display-name>
       <help-location>bugfinder</help-location>
       <short-name>bugfinder</short-name>
@@ -832,6 +874,34 @@
       <display-name>Polyspace Code Prover</display-name>
       <help-location>codeprover</help-location>
       <short-name>codeprover</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Polyspace Copilot</display-name>
+      <help-location>polyspace_copilot</help-location>
+      <short-name>polyspace_copilot</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>verification-validation</group>
+        </product-family>
+        <product-family>
+          <family>polyspace</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Polyspace Products for Ada</display-name>
+      <help-location>polyspace_ada</help-location>
+      <short-name>polyspace_ada</short-name>
       <product-family-list>
         <product-family>
           <family>simulink</family>
@@ -894,6 +964,21 @@
         <product-family>
           <family>simulink</family>
           <group>signal-processing</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Raspberry Pi Blockset</display-name>
+      <help-location>raspberrypi</help-location>
+      <short-name>raspberrypi</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>matlab</group>
         </product-family>
       </product-family-list>
     </product>
@@ -965,6 +1050,28 @@
         <product-family>
           <family>matlab</family>
           <group>computational-finance</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>RoadRunner</display-name>
+      <help-location>roadrunner</help-location>
+      <short-name>roadrunner</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>robotics-autonomous</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>RoadRunner Scenario</display-name>
+      <help-location>roadrunner-scenario</help-location>
+      <short-name>roadrunner-scenario</short-name>
+      <product-family-list>
+        <product-family>
+          <family>matlab</family>
+          <group>robotics-autonomous</group>
         </product-family>
       </product-family-list>
     </product>
@@ -1230,6 +1337,16 @@
       </product-family-list>
     </product>
     <product>
+      <display-name>Simulink Copilot</display-name>
+      <help-location>simulink-copilot</help-location>
+      <short-name>simulink-copilot</short-name>
+      <product-family-list>
+        <product-family>
+          <family>Simulink</family>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
       <display-name>Simulink Coverage</display-name>
       <help-location>slcoverage</help-location>
       <short-name>slcoverage</short-name>
@@ -1281,6 +1398,17 @@
         <product-family>
           <family>simulink</family>
           <group>verification-validation</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>Simulink FMU Builder</display-name>
+      <help-location>fmuexport</help-location>
+      <short-name>fmuexport</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>desktop-web-deployment</group>
         </product-family>
       </product-family-list>
     </product>
@@ -1377,6 +1505,21 @@
         <product-family>
           <family>matlab</family>
           <group>math-statistics-and-optimization</group>
+        </product-family>
+      </product-family-list>
+    </product>
+    <product>
+      <display-name>STM32 Microcontroller Blockset</display-name>
+      <help-location>stm32b</help-location>
+      <short-name>stm32b</short-name>
+      <product-family-list>
+        <product-family>
+          <family>simulink</family>
+          <group>code-generation</group>
+        </product-family>
+        <product-family>
+          <family>simulink</family>
+          <group>control-systems</group>
         </product-family>
       </product-family-list>
     </product>

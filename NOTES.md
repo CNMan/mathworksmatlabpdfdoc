@@ -1,6 +1,7 @@
   -  https://www.mathworks.com/downloads/
   -  https://www.mathworks.com/downloads/web_downloads/download_iso
   -  https://www.mathworks.com/downloads/web_downloads/download_update
+  -  https://www.mathworks.com/downloads/web_downloads/latest_release
   -  https://www.mathworks.com/downloads/web_downloads/show_isos?release=R2023b
   -  https://www.mathworks.com/downloads/web_downloads/show_updates?release=R2023b
   -  https://www.mathworks.com/help/index.html
@@ -50,8 +51,13 @@
   -  https://www.mathworks.com/doc-iso-r2025b-mac
   -  https://www.mathworks.com/doc-iso-r2025b-maca
   -  https://www.mathworks.com/doc-iso-r2025b-win
+  -  https://www.mathworks.com/doc-iso-r2026a-linux
+  -  https://www.mathworks.com/doc-iso-r2026a-mac
+  -  https://www.mathworks.com/doc-iso-r2026a-maca
+  -  https://www.mathworks.com/doc-iso-r2026a-win
 
 ### Release Notes
+  -  https://www.mathworks.com/help/releases/R2026a/relnotes/
   -  https://www.mathworks.com/help/releases/R2025b/relnotes/
   -  https://www.mathworks.com/help/releases/R2025a/relnotes/
   -  https://www.mathworks.com/help/releases/R2024b/relnotes/
@@ -74,6 +80,7 @@
   -  https://www.mathworks.com/help/releases/R2016a/relnotes/
 
 ### Updates Release Notes
+  -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2026a/r2026a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2025b/r2025b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2025a/r2025a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2024b/r2024b-updates-release-notes.pdf
@@ -98,6 +105,7 @@
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2015asp1/r2015asp1-updates-release-notes.pdf
 
 ### Overviews for previous releases
+  -  https://www.mathworks.com/products/new_products/release2025b.html
   -  https://www.mathworks.com/products/new_products/release2025a.html
   -  https://www.mathworks.com/products/new_products/release2024b.html
   -  https://www.mathworks.com/products/new_products/release2024a.html
@@ -478,7 +486,6 @@ SoC Blockset
 
 As of R2024b, the SoC Blockset™ Support Package for Infineon® AURIX™ Microcontrollers has been merged into the Embedded Coder® Support Package for Infineon® AURIX™ TCx4 Microcontrollers.
 
-
 Communications Toolbox
 
 As of R2024b, the following modulation functions and blocks in Communications Toolbox™ have moved into Satellite Communications Toolbox™:
@@ -495,6 +502,44 @@ Filter Design HDL Coder
 As of R2025a, Filter Design HDL Coder is discontinued and no longer available for purchase. 
 
 MathWorks recommends the use of DSP HDL Toolbox, which encompasses the filter structures available in Filter Design HDL Coder, while also offering advanced and high-performance filters and signal processing support for FPGAs and ASICs. It includes templates for interfacing MATLAB and Simulink as well as reference examples. To generate synthesizable VHDL or Verilog code you will require HDL Coder.
+
+https://www.mathworks.com/products/new_products/r2026a-transition.html
+
+MATLAB
+
+As of R2026a, MATLAB® Support Package for Raspberry Pi® Hardware has moved into the new Raspberry Pi® Blockset.
+
+Simulink
+
+As of R2026a, Simulink® Support Package for Raspberry Pi® Hardware has moved into the new Raspberry Pi® Blockset.
+
+Communications Toolbox
+
+As of R2026a, Communications Toolbox™ Wireless Network Simulation Library has moved into the new Wireless Network Toolbox™.
+
+Embedded Coder
+
+As of R2026a, Embedded Coder® Support Package for STMicroelectronics® STM32 Processors has moved into the new STM32™ Microcontroller Blockset.
+
+Simulink Coder
+
+As of R2026a, Simulink® Coder™ Support Package for STMicroelectronics® Nucleo Boards has moved into the new STM32™ Microcontroller Blockset.
+
+Polyspace® Access™
+
+As of R2026a, Polyspace® as You Code Plugin for IDE has moved into the new Polyspace® as You Code™.
+
+Simulink® Compiler™
+
+As of R2026a, FMU Builder for Simulink® has moved into the new Simulink® FMU Builder.
+
+WLAN Toolbox
+
+As of R2026a, the PCAP feature in WLAN Toolbox™ has moved into the new Wireless Network Toolbox™.
+
+Bluetooth Toolbox
+
+As of R2026a, the PCAP feature in Bluetooth Toolbox has moved into the new Wireless Network Toolbox™.
 
 ### License Manager
 
@@ -578,6 +623,9 @@ MathWorks recommends the use of DSP HDL Toolbox, which encompasses the filter st
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/license_manager/R2025b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/license_manager/R2025b/daemons/maci64/mathworks_network_license_manager_maci64.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/license_manager/R2025b/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/license_manager/R2026a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/license_manager/R2026a/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/license_manager/R2026a/daemons/win64/mathworks_network_license_manager_win64.zip
 
 ### Support Software Downloader
 
@@ -626,3 +674,6 @@ MathWorks recommends the use of DSP HDL Toolbox, which encompasses the filter st
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2025b_glnxa64.bin
   -  https://www.mathworks.com/supportfiles/downloads/R2025b/ssi_downloader/maci64/SupportSoftwareDownloader_R2025b_maci64.dmg.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2025b/ssi_downloader/win64/SupportSoftwareDownloader_R2025b_win64.exe
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2026a_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2026a/ssi_downloader/maci64/SupportSoftwareDownloader_R2026a_maci64.dmg.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/ssi_downloader/win64/SupportSoftwareDownloader_R2026a_win64.exe

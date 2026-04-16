@@ -205,6 +205,10 @@ https://www.mathworks.com/help/pdf_doc/lte/rn.pdf
 https://www.mathworks.com/help/pdf_doc/map/map_ref.pdf
 https://www.mathworks.com/help/pdf_doc/map/map_ug.pdf
 https://www.mathworks.com/help/pdf_doc/map/rn.pdf
+https://www.mathworks.com/help/pdf_doc/matlab-and-simulink-online-courses/onlinecourses_ug.pdf
+https://www.mathworks.com/help/pdf_doc/matlab-and-simulink-online-courses/rn.pdf
+https://www.mathworks.com/help/pdf_doc/matlab-copilot/matlabcopilot-ug.pdf
+https://www.mathworks.com/help/pdf_doc/matlab-copilot/rn.pdf
 https://www.mathworks.com/help/pdf_doc/matlab-online-server/matlab-online-server-admin-guide.pdf
 https://www.mathworks.com/help/pdf_doc/matlab-online-server/matlab-online-server-user-guide.pdf
 https://www.mathworks.com/help/pdf_doc/matlab-online-server/rn.pdf
@@ -231,6 +235,8 @@ https://www.mathworks.com/help/pdf_doc/matlab/matlab_ref.pdf
 https://www.mathworks.com/help/pdf_doc/matlab/rn.pdf
 https://www.mathworks.com/help/pdf_doc/matlab/supportpkg.pdf
 https://www.mathworks.com/help/pdf_doc/matlab/visualize.pdf
+https://www.mathworks.com/help/pdf_doc/matlabgrader/matlabgrader_ug.pdf
+https://www.mathworks.com/help/pdf_doc/matlabgrader/rn.pdf
 https://www.mathworks.com/help/pdf_doc/mbc/cage.pdf
 https://www.mathworks.com/help/pdf_doc/mbc/mbc_commandline.pdf
 https://www.mathworks.com/help/pdf_doc/mbc/mbc_gs.pdf
@@ -273,6 +279,11 @@ https://www.mathworks.com/help/pdf_doc/otherdocs/simax.pdf
 https://www.mathworks.com/help/pdf_doc/otherdocs/sorensen.pdf
 https://www.mathworks.com/help/pdf_doc/parallel-computing/parallel-computing.pdf
 https://www.mathworks.com/help/pdf_doc/parallel-computing/rn.pdf
+https://www.mathworks.com/help/pdf_doc/payc/payc-gs.pdf
+https://www.mathworks.com/help/pdf_doc/payc/payc-install.pdf
+https://www.mathworks.com/help/pdf_doc/payc/payc-ref.pdf
+https://www.mathworks.com/help/pdf_doc/payc/payc-ug.pdf
+https://www.mathworks.com/help/pdf_doc/payc/rn.pdf
 https://www.mathworks.com/help/pdf_doc/pde/pde.pdf
 https://www.mathworks.com/help/pdf_doc/pde/rn.pdf
 https://www.mathworks.com/help/pdf_doc/phased/phased_gs.pdf
@@ -293,6 +304,9 @@ https://www.mathworks.com/help/pdf_doc/polyspace_ada/ada_ref.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_ada/ada_ug.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_ada/polyspace_install.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_ada/rn.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_copilot/polyspace-copilot-gs.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_copilot/polyspace-copilot-ug.pdf
+https://www.mathworks.com/help/pdf_doc/polyspace_copilot/rn.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_test/polyspace_test_gs.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_test/polyspace_test_install.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_test/polyspace_test_ref.pdf
@@ -308,6 +322,10 @@ https://www.mathworks.com/help/pdf_doc/radar/radar_gs.pdf
 https://www.mathworks.com/help/pdf_doc/radar/radar_ref.pdf
 https://www.mathworks.com/help/pdf_doc/radar/radar_ug.pdf
 https://www.mathworks.com/help/pdf_doc/radar/rn.pdf
+https://www.mathworks.com/help/pdf_doc/raspberrypi/raspberrypi-gs.pdf
+https://www.mathworks.com/help/pdf_doc/raspberrypi/raspberrypi-ref.pdf
+https://www.mathworks.com/help/pdf_doc/raspberrypi/raspberrypi-ug.pdf
+https://www.mathworks.com/help/pdf_doc/raspberrypi/rn.pdf
 https://www.mathworks.com/help/pdf_doc/reinforcement-learning/rl_ref.pdf
 https://www.mathworks.com/help/pdf_doc/reinforcement-learning/rl_ug.pdf
 https://www.mathworks.com/help/pdf_doc/reinforcement-learning/rn.pdf
@@ -407,6 +425,8 @@ https://www.mathworks.com/help/pdf_doc/simscape/simscape_gs.pdf
 https://www.mathworks.com/help/pdf_doc/simscape/simscape_lang.pdf
 https://www.mathworks.com/help/pdf_doc/simscape/simscape_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simscape/simscape_ug.pdf
+https://www.mathworks.com/help/pdf_doc/simulink-copilot/rn.pdf
+https://www.mathworks.com/help/pdf_doc/simulink-copilot/slcopilot-ug.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/android_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/android_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/arduino_ref.pdf
@@ -415,8 +435,6 @@ https://www.mathworks.com/help/pdf_doc/simulink/legomindstormsev3_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/legomindstormsev3_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/parrot_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/parrot_ug.pdf
-https://www.mathworks.com/help/pdf_doc/simulink/raspberrypi_ref.pdf
-https://www.mathworks.com/help/pdf_doc/simulink/raspberrypi_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/rn.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/sfun.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/simulink_cg_guidelines.pdf
@@ -426,6 +444,7 @@ https://www.mathworks.com/help/pdf_doc/simulink/simulink_hi_guidelines.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/simulink_mab_guidelines.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/simulink_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/simulink_ug.pdf
+https://www.mathworks.com/help/pdf_doc/simulink/variants.pdf
 https://www.mathworks.com/help/pdf_doc/sl3d/rn.pdf
 https://www.mathworks.com/help/pdf_doc/sl3d/sl3d_ref.pdf
 https://www.mathworks.com/help/pdf_doc/sl3d/sl3d_ug.pdf
@@ -493,6 +512,10 @@ https://www.mathworks.com/help/pdf_doc/stateflow/stateflow_ref.pdf
 https://www.mathworks.com/help/pdf_doc/stateflow/stateflow_ug.pdf
 https://www.mathworks.com/help/pdf_doc/stats/rn.pdf
 https://www.mathworks.com/help/pdf_doc/stats/stats.pdf
+https://www.mathworks.com/help/pdf_doc/stm32b/rn.pdf
+https://www.mathworks.com/help/pdf_doc/stm32b/stm32b-gs.pdf
+https://www.mathworks.com/help/pdf_doc/stm32b/stm32b-ref.pdf
+https://www.mathworks.com/help/pdf_doc/stm32b/stm32b-ug.pdf
 https://www.mathworks.com/help/pdf_doc/symbolic/rn.pdf
 https://www.mathworks.com/help/pdf_doc/symbolic/symbolic_ug.pdf
 https://www.mathworks.com/help/pdf_doc/systemcomposer/rn.pdf
@@ -537,6 +560,10 @@ https://www.mathworks.com/help/pdf_doc/wireless-hdl/rn.pdf
 https://www.mathworks.com/help/pdf_doc/wireless-hdl/whdl_gs.pdf
 https://www.mathworks.com/help/pdf_doc/wireless-hdl/whdl_ref.pdf
 https://www.mathworks.com/help/pdf_doc/wireless-hdl/whdl_ug.pdf
+https://www.mathworks.com/help/pdf_doc/wireless-network/rn.pdf
+https://www.mathworks.com/help/pdf_doc/wireless-network/wnet_gs.pdf
+https://www.mathworks.com/help/pdf_doc/wireless-network/wnet_ref.pdf
+https://www.mathworks.com/help/pdf_doc/wireless-network/wnet_ug.pdf
 https://www.mathworks.com/help/pdf_doc/wireless-testbench/rn.pdf
 https://www.mathworks.com/help/pdf_doc/wireless-testbench/wt_gs.pdf
 https://www.mathworks.com/help/pdf_doc/wireless-testbench/wt_ref.pdf
