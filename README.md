@@ -720,6 +720,22 @@ https://www.mathworks.com/help/pdf_doc/phased/phased_ug.pdf
 
 https://www.mathworks.com/help/pdf_doc/phased/rn.pdf
 
+#### Point Cloud Toolbox
+
+https://www.mathworks.com/help/pdf_doc/pointcloud/ousterlidar_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/pointcloud/ousterlidar_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/pointcloud/pointcloud_gs.pdf
+
+https://www.mathworks.com/help/pdf_doc/pointcloud/pointcloud_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/pointcloud/pointcloud_ug.pdf
+
+https://www.mathworks.com/help/pdf_doc/pointcloud/rn.pdf
+
+https://www.mathworks.com/help/pdf_doc/pointcloud/velodynelidar_ug.pdf
+
 #### Polyspace Access
 
 https://www.mathworks.com/help/pdf_doc/polyspace_access/polyspace-access-gs.pdf
@@ -1050,6 +1066,12 @@ https://www.mathworks.com/help/pdf_doc/sdl/sdl_ug.pdf
 
 #### Simscape Electrical
 
+https://www.mathworks.com/help/pdf_doc/simscape-electrical/rn.pdf
+
+https://www.mathworks.com/help/pdf_doc/simscape-electrical/sps_ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/simscape-electrical/sps_ug.pdf
+
 https://www.mathworks.com/help/pdf_doc/sps/powersys_ref.pdf
 
 https://www.mathworks.com/help/pdf_doc/sps/powersys_ug.pdf
@@ -1264,6 +1286,16 @@ https://www.mathworks.com/help/pdf_doc/sltest/sltest_ref.pdf
 
 https://www.mathworks.com/help/pdf_doc/sltest/sltest_ug.pdf
 
+#### Simulink Variant Manager
+
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/rn.pdf
+
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/variant_manager-gs.pdf
+
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/variant_manager-ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/variant_manager-ug.pdf
+
 #### SoC Blockset
 
 https://www.mathworks.com/help/pdf_doc/soc/rn.pdf
@@ -1381,6 +1413,14 @@ https://www.mathworks.com/help/pdf_doc/visionhdl/visionhdl_gs.pdf
 https://www.mathworks.com/help/pdf_doc/visionhdl/visionhdl_ref.pdf
 
 https://www.mathworks.com/help/pdf_doc/visionhdl/visionhdl_ug.pdf
+
+#### Visual Inspection Toolbox
+
+https://www.mathworks.com/help/pdf_doc/visual-inspection/rn.pdf
+
+https://www.mathworks.com/help/pdf_doc/visual-inspection/visualinspection-ref.pdf
+
+https://www.mathworks.com/help/pdf_doc/visual-inspection/visualinspection-ug.pdf
 
 #### Wavelet Toolbox
 

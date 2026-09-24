@@ -294,6 +294,13 @@ https://www.mathworks.com/help/pdf_doc/plccoder/plc_st_ug.pdf
 https://www.mathworks.com/help/pdf_doc/plccoder/plccoder_gs.pdf
 https://www.mathworks.com/help/pdf_doc/plccoder/plccoder_ref.pdf
 https://www.mathworks.com/help/pdf_doc/plccoder/rn.pdf
+https://www.mathworks.com/help/pdf_doc/pointcloud/ousterlidar_ref.pdf
+https://www.mathworks.com/help/pdf_doc/pointcloud/ousterlidar_ug.pdf
+https://www.mathworks.com/help/pdf_doc/pointcloud/pointcloud_gs.pdf
+https://www.mathworks.com/help/pdf_doc/pointcloud/pointcloud_ref.pdf
+https://www.mathworks.com/help/pdf_doc/pointcloud/pointcloud_ug.pdf
+https://www.mathworks.com/help/pdf_doc/pointcloud/rn.pdf
+https://www.mathworks.com/help/pdf_doc/pointcloud/velodynelidar_ug.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_access/polyspace-access-gs.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_access/polyspace-access-install.pdf
 https://www.mathworks.com/help/pdf_doc/polyspace_access/polyspace-access-ref.pdf
@@ -420,6 +427,9 @@ https://www.mathworks.com/help/pdf_doc/simrf/simrf_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simscape-battery/battery_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simscape-battery/battery_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simscape-battery/rn.pdf
+https://www.mathworks.com/help/pdf_doc/simscape-electrical/rn.pdf
+https://www.mathworks.com/help/pdf_doc/simscape-electrical/sps_ref.pdf
+https://www.mathworks.com/help/pdf_doc/simscape-electrical/sps_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simscape/rn.pdf
 https://www.mathworks.com/help/pdf_doc/simscape/simscape_gs.pdf
 https://www.mathworks.com/help/pdf_doc/simscape/simscape_lang.pdf
@@ -427,6 +437,10 @@ https://www.mathworks.com/help/pdf_doc/simscape/simscape_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simscape/simscape_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simulink-copilot/rn.pdf
 https://www.mathworks.com/help/pdf_doc/simulink-copilot/slcopilot-ug.pdf
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/rn.pdf
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/variant_manager-gs.pdf
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/variant_manager-ref.pdf
+https://www.mathworks.com/help/pdf_doc/simulink-variant-manager/variant_manager-ug.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/android_ref.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/android_ug.pdf
 https://www.mathworks.com/help/pdf_doc/simulink/arduino_ref.pdf
@@ -547,6 +561,9 @@ https://www.mathworks.com/help/pdf_doc/visionhdl/rn.pdf
 https://www.mathworks.com/help/pdf_doc/visionhdl/visionhdl_gs.pdf
 https://www.mathworks.com/help/pdf_doc/visionhdl/visionhdl_ref.pdf
 https://www.mathworks.com/help/pdf_doc/visionhdl/visionhdl_ug.pdf
+https://www.mathworks.com/help/pdf_doc/visual-inspection/rn.pdf
+https://www.mathworks.com/help/pdf_doc/visual-inspection/visualinspection-ref.pdf
+https://www.mathworks.com/help/pdf_doc/visual-inspection/visualinspection-ug.pdf
 https://www.mathworks.com/help/pdf_doc/vnt/rn.pdf
 https://www.mathworks.com/help/pdf_doc/vnt/vnt_ug.pdf
 https://www.mathworks.com/help/pdf_doc/wavelet/rn.pdf
