@@ -55,8 +55,13 @@
   -  https://www.mathworks.com/doc-iso-r2026a-mac
   -  https://www.mathworks.com/doc-iso-r2026a-maca
   -  https://www.mathworks.com/doc-iso-r2026a-win
+  -  https://www.mathworks.com/doc-iso-r2026b-linux
+  -  https://www.mathworks.com/doc-iso-r2026b-mac
+  -  https://www.mathworks.com/doc-iso-r2026b-maca
+  -  https://www.mathworks.com/doc-iso-r2026b-win
 
 ### Release Notes
+  -  https://www.mathworks.com/help/releases/R2026b/relnotes/
   -  https://www.mathworks.com/help/releases/R2026a/relnotes/
   -  https://www.mathworks.com/help/releases/R2025b/relnotes/
   -  https://www.mathworks.com/help/releases/R2025a/relnotes/
@@ -80,6 +85,7 @@
   -  https://www.mathworks.com/help/releases/R2016a/relnotes/
 
 ### Updates Release Notes
+  -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2026b/r2026b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2026a/r2026a-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2025b/r2025b-updates-release-notes.pdf
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2025a/r2025a-updates-release-notes.pdf
@@ -105,6 +111,7 @@
   -  https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/support/updates/r2015asp1/r2015asp1-updates-release-notes.pdf
 
 ### Overviews for previous releases
+  -  https://www.mathworks.com/products/new_products/release2026a.html
   -  https://www.mathworks.com/products/new_products/release2025b.html
   -  https://www.mathworks.com/products/new_products/release2025a.html
   -  https://www.mathworks.com/products/new_products/release2024b.html
@@ -541,6 +548,72 @@ Bluetooth Toolbox
 
 As of R2026a, the PCAP feature in Bluetooth Toolbox has moved into the new Wireless Network Toolbox™.
 
+https://www.mathworks.com/products/new_products/r2026b-transition.html
+
+Automated Driving Toolbox
+
+As of R2026b, the Ground Truth labeling feature has moved from Automated Driving Toolbox™ to Point Cloud Toolbox™.
+
+Computer Vision Toolbox
+
+As of R2026b, Visual Inspection Library for Computer Vision Toolbox™ has moved into Visual Inspection Toolbox™.
+
+Deep Learning HDL Toolbox
+
+As of R2026b, Deep Learning HDL Toolbox™ Support Package for AMD FPGA and SoC Devices has moved into SoC Blockset™ Support Package for AMD FPGA and SoC Devices.
+
+As of R2026b, Deep Learning HDL Toolbox™ Support Package for Intel® FPGA and SoC Devices has moved into HDL Coder™ Support Package for Intel® FPGA and SoC Devices.
+
+As of R2026b, Deep Learning HDL Toolbox™ has added HDL Coder™ as an additional dependency.
+
+Embedded Coder
+
+As of R2026b, Embedded Coder® Support Package for Intel® SoC Devices has moved into HDL Coder™ Support Package for Intel® FPGA and SoC Devices.
+
+HDL Coder
+
+As of R2026b, HDL Coder™ Support Package for AMD FPGA and SoC Devices has moved into SoC Blockset™ Support Package for AMD FPGA and SoC Devices.
+
+As of R2026b, the VMC and Vitis HLS support has moved from HDL Coder™ into SoC Blockset™ (for AMD).
+
+HDL Verifier
+
+As of R2026b, HDL Verifier™ Support Package for AMD FPGA and SoC Devices has moved into SoC Blockset™ Support Package for AMD FPGA and SoC Devices.
+
+As of R2026b, HDL Verifier™ Support Package for Intel® FPGA Boards has moved into HDL Coder™ Support Package for Intel® FPGA and SoC Devices.
+
+As of R2026b, HDL Verifier™ Support Package for Microchip has moved into HDL Coder™ Support Package for Microchip FPGA and SoC Devices.
+
+Lidar Toolbox
+
+As of R2026b, Lidar Toolbox™ has removed the dependency for Computer Vision Toolbox™ and Image Processing Toolbox™.
+
+As of R2026b, Lidar Toolbox™ has been renamed Point Cloud Toolbox™.
+
+MATLAB Copilot
+
+As of R2026b, MATLAB® Copilot has added MATLAB® as a dependency and will be an add-on product on the same license as MATLAB®.
+
+Polyspace Test
+
+As of R2026b, the CI/CD automation feature has moved into Polyspace® Test™ Server™.
+
+Simulink
+
+As of R2026b, Variant Manager for Simulink® has moved into the new Simulink® Variant Manager™.
+
+Simulink Copilot
+
+As of R2026b, Simulink® Copilot has added Simulink® as a dependency and will be an add-on product on the same license as MATLAB®.
+
+SoC Blockset
+
+As of R2026b, SoC Blockset™ Support Package for Intel® Devices has moved into HDL Coder™ Support Package for Intel® FPGA and SoC Devices.
+
+As of R2026b, SoC Blockset™ has removed the dependency for Simulink®. Simulink® will be required for modeling hardware behavior.
+
+As of R2026b, SoC Blockset™ has been renamed SoC Blockset™ (for AMD).
+
 ### License Manager
 
   -  https://www.mathworks.com/supportfiles/downloads/R2013b/license_manager/R2013b/daemons/glnxa64/flexnet_glnxa64.zip
@@ -626,6 +699,9 @@ As of R2026a, the PCAP feature in Bluetooth Toolbox has moved into the new Wirel
   -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/license_manager/R2026a/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/license_manager/R2026a/daemons/maci64/mathworks_network_license_manager_maci64.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/license_manager/R2026a/daemons/win64/mathworks_network_license_manager_win64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026b/license_manager/R2026b/daemons/glnxa64/mathworks_network_license_manager_glnxa64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026b/license_manager/R2026b/daemons/maci64/mathworks_network_license_manager_maci64.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026b/license_manager/R2026b/daemons/win64/mathworks_network_license_manager_win64.zip
 
 ### Support Software Downloader
 
@@ -677,3 +753,6 @@ As of R2026a, the PCAP feature in Bluetooth Toolbox has moved into the new Wirel
   -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2026a_glnxa64.bin
   -  https://www.mathworks.com/supportfiles/downloads/R2026a/ssi_downloader/maci64/SupportSoftwareDownloader_R2026a_maci64.dmg.zip
   -  https://ssd.mathworks.com/supportfiles/downloads/R2026a/ssi_downloader/win64/SupportSoftwareDownloader_R2026a_win64.exe
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026b/ssi_downloader/glnxa64/SupportSoftwareDownloader_R2026b_glnxa64.bin
+  -  https://www.mathworks.com/supportfiles/downloads/R2026b/ssi_downloader/maci64/SupportSoftwareDownloader_R2026b_maci64.dmg.zip
+  -  https://ssd.mathworks.com/supportfiles/downloads/R2026b/ssi_downloader/win64/SupportSoftwareDownloader_R2026b_win64.exe
